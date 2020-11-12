@@ -1,0 +1,97 @@
+{
+  "uid" : "be578f8b4f8533eb",
+  "name" : "Test02: Add one product",
+  "fullName" : "SanityTests.sauceDemoWeb.test02",
+  "historyId" : "87b0c8982cf69ef8ed4ba6614ce42dd6",
+  "time" : {
+    "start" : 1603802356202,
+    "stop" : 1603802356576,
+    "duration" : 374
+  },
+  "description" : "Test Description: Add to cart one product and verifies number of products in the cart (1)",
+  "descriptionHtml" : "<p>Test Description: Add to cart one product and verifies number of products in the cart (1)</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1603802343008,
+      "stop" : 1603802354897,
+      "duration" : 11889
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1603802364097,
+      "stop" : 1603802364797,
+      "duration" : 700
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "10928@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be578f8b4f8533eb.json",
+  "parameterValues" : [ "web" ]
+}

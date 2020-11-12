@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Environment>
+
+    <!--> TimeOut <-->
+    <TimeOut>5</TimeOut>
+
+    <!--> Web <-->
+    <BrowserName>chrome</BrowserName>
+    <Url_Web>https://www.saucedemo.com/</Url_Web>
+    <imageRepository>./ImageRepository/</imageRepository>
+
+    <!--> Mobile <-->
+    <UDID>bca44b3</UDID>
+    <APP_PACKAGE>com.example.android.apis</APP_PACKAGE>
+    <APP_ACTIVITY>.ApiDemos</APP_ACTIVITY>
+
+    <!--> Api <-->
+    <urlApi>http://localhost:3000</urlApi>
+    <userNameApi>admin</userNameApi>
+    <passwordApi>admin</passwordApi>
+
+    <!--> Electron <-->
+    <electronDriverPath>./Drivers/electron.exe</electronDriverPath>
+    <electronAppPath>C:/Automation/electronApp/ElectronAPIDemos-win32-ia32/ElectronAPIDemos.exe</electronAppPath>
+
+    <!--> Desktop <-->
+    <appiumServer>http://localhost:4723</appiumServer>
+    <calculatorApp>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</calculatorApp>
+
+    <!--> DB <-->
+    <DB_Url>jdbc:mysql://sql12.freemysqlhosting.net:3306/sql12371700</DB_Url>
+    <DB_UserName></DB_UserName>  <!--> userName <-->
+    <DB_PassWord></DB_PassWord>  <!--> passWord <-->
+
+</Environment>

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SanityTests.sauceDemoWeb
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.706 s - in SanityTests.sauceDemoWeb

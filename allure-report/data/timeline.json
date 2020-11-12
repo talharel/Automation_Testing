@@ -1,0 +1,3714 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-SS4RDQI",
+    "children" : [ {
+      "name" : "13952@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "9eefe7d3e158ad87",
+        "parentUid" : "35976d481dbee0f652eddb7f265b0afe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283515410,
+          "stop" : 1603283526036,
+          "duration" : 10626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "d8a3fc938ce10ed2",
+        "parentUid" : "35976d481dbee0f652eddb7f265b0afe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283528392,
+          "stop" : 1603283529202,
+          "duration" : 810
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "607d7e9483c728b3",
+        "parentUid" : "35976d481dbee0f652eddb7f265b0afe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283526542,
+          "stop" : 1603283528336,
+          "duration" : 1794
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "f5e70b7308fe75d6",
+        "parentUid" : "35976d481dbee0f652eddb7f265b0afe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283533836,
+          "stop" : 1603283533845,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "a83d2df2dfa3ebc",
+        "parentUid" : "35976d481dbee0f652eddb7f265b0afe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283529211,
+          "stop" : 1603283533829,
+          "duration" : 4618
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "3d7763db916fce10",
+        "parentUid" : "35976d481dbee0f652eddb7f265b0afe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283526133,
+          "stop" : 1603283526509,
+          "duration" : 376
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "35976d481dbee0f652eddb7f265b0afe"
+    }, {
+      "name" : "19288@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "69157974fa4db26d",
+        "parentUid" : "363b65974a221934f7577f8085d18879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395569573,
+          "stop" : 1603395569746,
+          "duration" : 173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "88fa79cc8b39e73a",
+        "parentUid" : "363b65974a221934f7577f8085d18879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395567462,
+          "stop" : 1603395569010,
+          "duration" : 1548
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "cdf23582169db167",
+        "parentUid" : "363b65974a221934f7577f8085d18879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395569294,
+          "stop" : 1603395569527,
+          "duration" : 233
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "7d9ee54cd4e9be2e",
+        "parentUid" : "363b65974a221934f7577f8085d18879",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395569103,
+          "stop" : 1603395569279,
+          "duration" : 176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "363b65974a221934f7577f8085d18879"
+    }, {
+      "name" : "9488@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "aedf086409cf8ad5",
+        "parentUid" : "342733e78cf052c1b7335ed30fd8a16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283926030,
+          "stop" : 1603283926726,
+          "duration" : 696
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "55f16dc65138ee2c",
+        "parentUid" : "342733e78cf052c1b7335ed30fd8a16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283930578,
+          "stop" : 1603283930585,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "365d28bf7dff48c7",
+        "parentUid" : "342733e78cf052c1b7335ed30fd8a16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283926729,
+          "stop" : 1603283930574,
+          "duration" : 3845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "35b00a713d813d28",
+        "parentUid" : "342733e78cf052c1b7335ed30fd8a16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283923945,
+          "stop" : 1603283925965,
+          "duration" : 2020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "dde676c6beb66e6a",
+        "parentUid" : "342733e78cf052c1b7335ed30fd8a16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283922026,
+          "stop" : 1603283923563,
+          "duration" : 1537
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "dc399571fed8bdde",
+        "parentUid" : "342733e78cf052c1b7335ed30fd8a16e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283923649,
+          "stop" : 1603283923918,
+          "duration" : 269
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "342733e78cf052c1b7335ed30fd8a16e"
+    }, {
+      "name" : "25376@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Login to sauceDemo with DB",
+        "uid" : "659b0d4ea060021b",
+        "parentUid" : "af142f56f13060545514d7fc9cef6302",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393481752,
+          "stop" : 1603393483139,
+          "duration" : 1387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "af142f56f13060545514d7fc9cef6302"
+    }, {
+      "name" : "15556@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "ef99eccca4e8f15b",
+        "parentUid" : "00235ee3b534143b113c58759e8c41ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393613305,
+          "stop" : 1603393613405,
+          "duration" : 100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "1d23130513577582",
+        "parentUid" : "00235ee3b534143b113c58759e8c41ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393613199,
+          "stop" : 1603393613302,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "2c7a1835d4ec1a03",
+        "parentUid" : "00235ee3b534143b113c58759e8c41ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393613409,
+          "stop" : 1603393613491,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "f2a96f9e2d718b7b",
+        "parentUid" : "00235ee3b534143b113c58759e8c41ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393612277,
+          "stop" : 1603393613145,
+          "duration" : 868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "00235ee3b534143b113c58759e8c41ba"
+    }, {
+      "name" : "23372@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "cedf13a0a0239800",
+        "parentUid" : "a6ab4a724f7c41ef5256ad82813f5853",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284228465,
+          "stop" : 1603284228466,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "d46b38f60dc6265d",
+        "parentUid" : "a6ab4a724f7c41ef5256ad82813f5853",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284228469,
+          "stop" : 1603284228469,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "8828895e0aeb2cfc",
+        "parentUid" : "a6ab4a724f7c41ef5256ad82813f5853",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284228457,
+          "stop" : 1603284228457,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "e392a12eee32f528",
+        "parentUid" : "a6ab4a724f7c41ef5256ad82813f5853",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284228321,
+          "stop" : 1603284228322,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "ad37c3a1258e5478",
+        "parentUid" : "a6ab4a724f7c41ef5256ad82813f5853",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284228446,
+          "stop" : 1603284228447,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "a6ab4a724f7c41ef5256ad82813f5853"
+    }, {
+      "name" : "2064@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "startSession",
+        "uid" : "32c87cab138e23c7",
+        "parentUid" : "7d9e344dcde987757a60cdf9eea2ba48",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603286062045,
+          "stop" : 1603286062047,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Get the app's location",
+        "uid" : "fc6a9037c8988da4",
+        "parentUid" : "7d9e344dcde987757a60cdf9eea2ba48",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603286062138,
+          "stop" : 1603286062139,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d9e344dcde987757a60cdf9eea2ba48"
+    }, {
+      "name" : "19756@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "867353433f925b61",
+        "parentUid" : "2172f0c49090a24d388cb27b1b124a44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395429790,
+          "stop" : 1603395430037,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "2152395f21019e46",
+        "parentUid" : "2172f0c49090a24d388cb27b1b124a44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395430087,
+          "stop" : 1603395430260,
+          "duration" : 173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "fc97a7901e8621a3",
+        "parentUid" : "2172f0c49090a24d388cb27b1b124a44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395429611,
+          "stop" : 1603395429774,
+          "duration" : 163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "d872ac0f91e3ed2d",
+        "parentUid" : "2172f0c49090a24d388cb27b1b124a44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395427999,
+          "stop" : 1603395429521,
+          "duration" : 1522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "2172f0c49090a24d388cb27b1b124a44"
+    }, {
+      "name" : "10044@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "f266a06128bc8bac",
+        "parentUid" : "37e3596d48688d18524d1efab9cf2a8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284868857,
+          "stop" : 1603284872975,
+          "duration" : 4118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "a6879cca682653c",
+        "parentUid" : "37e3596d48688d18524d1efab9cf2a8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284864008,
+          "stop" : 1603284868787,
+          "duration" : 4779
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "9c1e557133859898",
+        "parentUid" : "37e3596d48688d18524d1efab9cf2a8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284877102,
+          "stop" : 1603284881184,
+          "duration" : 4082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "5d30a29b1c420fb0",
+        "parentUid" : "37e3596d48688d18524d1efab9cf2a8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284872989,
+          "stop" : 1603284877097,
+          "duration" : 4108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37e3596d48688d18524d1efab9cf2a8a"
+    }, {
+      "name" : "13752@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test02: Add one product",
+        "uid" : "a730cc76169d18cb",
+        "parentUid" : "c18960694686af16dea45672c12d1401",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603710133951,
+          "stop" : 1603710134290,
+          "duration" : 339
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "8dafbf5751ff0d37",
+        "parentUid" : "c18960694686af16dea45672c12d1401",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603710134292,
+          "stop" : 1603710136139,
+          "duration" : 1847
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "88867107a18bc6f1",
+        "parentUid" : "c18960694686af16dea45672c12d1401",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603710137310,
+          "stop" : 1603710141854,
+          "duration" : 4544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "47c6b0dab8203f34",
+        "parentUid" : "c18960694686af16dea45672c12d1401",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603710141859,
+          "stop" : 1603710141870,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "40cc0b3f00ac32f7",
+        "parentUid" : "c18960694686af16dea45672c12d1401",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603710132714,
+          "stop" : 1603710133873,
+          "duration" : 1159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "aed35b227bc2743c",
+        "parentUid" : "c18960694686af16dea45672c12d1401",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603710136144,
+          "stop" : 1603710137293,
+          "duration" : 1149
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "c18960694686af16dea45672c12d1401"
+    }, {
+      "name" : "24412@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "startSession",
+        "uid" : "1f1954ea0c734aa6",
+        "parentUid" : "81839385695aa57313dd6d18d74b3dd2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603802818098,
+          "stop" : 1603802818101,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test01",
+        "uid" : "49cead777e5930c1",
+        "parentUid" : "81839385695aa57313dd6d18d74b3dd2",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603802818183,
+          "stop" : 1603802818184,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "81839385695aa57313dd6d18d74b3dd2"
+    }, {
+      "name" : "10928@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "a6c168d22ea8b7b0",
+        "parentUid" : "7ef5308a5fc9fa985ead8e4b19dd8844",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802358519,
+          "stop" : 1603802359721,
+          "duration" : 1202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "be578f8b4f8533eb",
+        "parentUid" : "7ef5308a5fc9fa985ead8e4b19dd8844",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802356202,
+          "stop" : 1603802356576,
+          "duration" : 374
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "6876df507bc0d5ed",
+        "parentUid" : "7ef5308a5fc9fa985ead8e4b19dd8844",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802356581,
+          "stop" : 1603802358512,
+          "duration" : 1931
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "bfe73b60c47ff8cb",
+        "parentUid" : "7ef5308a5fc9fa985ead8e4b19dd8844",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802359726,
+          "stop" : 1603802364092,
+          "duration" : 4366
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "2eb1981f95d04468",
+        "parentUid" : "7ef5308a5fc9fa985ead8e4b19dd8844",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802354941,
+          "stop" : 1603802356129,
+          "duration" : 1188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "7ef5308a5fc9fa985ead8e4b19dd8844"
+    }, {
+      "name" : "8616@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test03: Add all products",
+        "uid" : "ff04b472637080db",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603286469804,
+          "stop" : 1603286469805,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "7edce4da4062ab7f",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603286469811,
+          "stop" : 1603286469811,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "4fdf42b49bee9e3f",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603286469698,
+          "stop" : 1603286469701,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "8b98e344c7387a97",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603286469800,
+          "stop" : 1603286469800,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "755807a778a96937",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603286469790,
+          "stop" : 1603286469791,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Login to sauceDemo with DB",
+        "uid" : "5d41420d982680fa",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603298351785,
+          "stop" : 1603298351786,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "ace935dbd38f80d6",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603298351689,
+          "stop" : 1603298351691,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "7a5c24f610332ceb",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603286469814,
+          "stop" : 1603286469814,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "c5885cac98c20acb",
+        "parentUid" : "b71517c9528e47aedd1ed2f771fc9160",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603286469808,
+          "stop" : 1603286469808,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b71517c9528e47aedd1ed2f771fc9160"
+    }, {
+      "name" : "8672@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "232641368942ac6c",
+        "parentUid" : "fc92b603368fbd311cbfbbdcd7ff8a4d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284825769,
+          "stop" : 1603284825769,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "489ddc9229be6b6d",
+        "parentUid" : "fc92b603368fbd311cbfbbdcd7ff8a4d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284825778,
+          "stop" : 1603284825778,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "d15d346d5a4badec",
+        "parentUid" : "fc92b603368fbd311cbfbbdcd7ff8a4d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284825753,
+          "stop" : 1603284825754,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "44cb0e47a30603c5",
+        "parentUid" : "fc92b603368fbd311cbfbbdcd7ff8a4d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284825782,
+          "stop" : 1603284825782,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "33a5212c5085819",
+        "parentUid" : "fc92b603368fbd311cbfbbdcd7ff8a4d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284825626,
+          "stop" : 1603284825627,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc92b603368fbd311cbfbbdcd7ff8a4d"
+    }, {
+      "name" : "11068@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "e03a715fedb57246",
+        "parentUid" : "1092b957e5775b3f680f33f36ed4ee9d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284757895,
+          "stop" : 1603284757895,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "583c16770e28ccb6",
+        "parentUid" : "1092b957e5775b3f680f33f36ed4ee9d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284757868,
+          "stop" : 1603284757870,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "7aaa5afad3fbc7ab",
+        "parentUid" : "1092b957e5775b3f680f33f36ed4ee9d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284757736,
+          "stop" : 1603284757737,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "e90026f9feadd71a",
+        "parentUid" : "1092b957e5775b3f680f33f36ed4ee9d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284757892,
+          "stop" : 1603284757892,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "9a600a3662e26d1d",
+        "parentUid" : "1092b957e5775b3f680f33f36ed4ee9d",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284757888,
+          "stop" : 1603284757888,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "1092b957e5775b3f680f33f36ed4ee9d"
+    }, {
+      "name" : "24344@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test03: Add all products",
+        "uid" : "111478603b1ff0f0",
+        "parentUid" : "cac051bfd22d91167097884cfc6a3636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387506422,
+          "stop" : 1603387508588,
+          "duration" : 2166
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "d915978f5c7b3c9a",
+        "parentUid" : "cac051bfd22d91167097884cfc6a3636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387509974,
+          "stop" : 1603387514055,
+          "duration" : 4081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "96048d9c035f1f0a",
+        "parentUid" : "cac051bfd22d91167097884cfc6a3636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387504360,
+          "stop" : 1603387505882,
+          "duration" : 1522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "2b86a3acec2e60f6",
+        "parentUid" : "cac051bfd22d91167097884cfc6a3636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387508676,
+          "stop" : 1603387509965,
+          "duration" : 1289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "d356af142df70646",
+        "parentUid" : "cac051bfd22d91167097884cfc6a3636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387514059,
+          "stop" : 1603387514066,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "b8c3a4a2f7c20571",
+        "parentUid" : "cac051bfd22d91167097884cfc6a3636",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387506016,
+          "stop" : 1603387506391,
+          "duration" : 375
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "cac051bfd22d91167097884cfc6a3636"
+    }, {
+      "name" : "21952@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "6fc9b19ea1f17aad",
+        "parentUid" : "32a125ca78ee4de0f2a1a628c1b50c3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287437991,
+          "stop" : 1603287438466,
+          "duration" : 475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "32a125ca78ee4de0f2a1a628c1b50c3f"
+    }, {
+      "name" : "21416@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test03: Add all products",
+        "uid" : "a1d1088310256bc6",
+        "parentUid" : "56659963a8fb7ee7bde2c39473af3dd8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603285884353,
+          "stop" : 1603285884353,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "83b949b8d5b091f9",
+        "parentUid" : "56659963a8fb7ee7bde2c39473af3dd8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603285884357,
+          "stop" : 1603285884357,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "433cb74d9d173881",
+        "parentUid" : "56659963a8fb7ee7bde2c39473af3dd8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603285884340,
+          "stop" : 1603285884341,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "79610fd01cd285f7",
+        "parentUid" : "56659963a8fb7ee7bde2c39473af3dd8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603285884243,
+          "stop" : 1603285884246,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "313c9041ec71dedc",
+        "parentUid" : "56659963a8fb7ee7bde2c39473af3dd8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603285884360,
+          "stop" : 1603285884360,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "2bb574f75cc82de",
+        "parentUid" : "56659963a8fb7ee7bde2c39473af3dd8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603285884348,
+          "stop" : 1603285884348,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "e9f2436df916018a",
+        "parentUid" : "56659963a8fb7ee7bde2c39473af3dd8",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603285884364,
+          "stop" : 1603285884364,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "56659963a8fb7ee7bde2c39473af3dd8"
+    }, {
+      "name" : "18244@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "2e41573ff31d883f",
+        "parentUid" : "1ec354c8226b31d35df4002d433a45f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286682351,
+          "stop" : 1603286682799,
+          "duration" : 448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "1ec354c8226b31d35df4002d433a45f2"
+    }, {
+      "name" : "2700@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "426d3e1805fd6979",
+        "parentUid" : "16c166555f8d515886ead27ecf157542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603803196217,
+          "stop" : 1603803197258,
+          "duration" : 1041
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "1c75a376ee45cd57",
+        "parentUid" : "16c166555f8d515886ead27ecf157542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603803193801,
+          "stop" : 1603803196212,
+          "duration" : 2411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "a447fc0c8d5a9efb",
+        "parentUid" : "16c166555f8d515886ead27ecf157542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603803197267,
+          "stop" : 1603803201584,
+          "duration" : 4317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "b857903d9b11a21",
+        "parentUid" : "16c166555f8d515886ead27ecf157542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603803193157,
+          "stop" : 1603803193791,
+          "duration" : 634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "c1a9efccadbc44b0",
+        "parentUid" : "16c166555f8d515886ead27ecf157542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603803191534,
+          "stop" : 1603803192996,
+          "duration" : 1462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "16c166555f8d515886ead27ecf157542"
+    }, {
+      "name" : "10824@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "ce235d65824f70f1",
+        "parentUid" : "855b7ef73c165129511a5e6dacb42e33",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284201927,
+          "stop" : 1603284201928,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "1ab4b16addf810ea",
+        "parentUid" : "855b7ef73c165129511a5e6dacb42e33",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284201932,
+          "stop" : 1603284201932,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "4c2c0d2aa98e556c",
+        "parentUid" : "855b7ef73c165129511a5e6dacb42e33",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284201923,
+          "stop" : 1603284201923,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "a339fd052948cae4",
+        "parentUid" : "855b7ef73c165129511a5e6dacb42e33",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284201898,
+          "stop" : 1603284201900,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "c416ea5dc9f6f443",
+        "parentUid" : "855b7ef73c165129511a5e6dacb42e33",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284201777,
+          "stop" : 1603284201779,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "855b7ef73c165129511a5e6dacb42e33"
+    }, {
+      "name" : "13008@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "startSession",
+        "uid" : "8e68d08c09af959a",
+        "parentUid" : "fa7e7afc981acfc0763bdedd6a606a77",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603284074218,
+          "stop" : 1603284074220,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "c2f38eaf628a172e",
+        "parentUid" : "fa7e7afc981acfc0763bdedd6a606a77",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284074354,
+          "stop" : 1603284074354,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "ad61c47693f17361",
+        "parentUid" : "fa7e7afc981acfc0763bdedd6a606a77",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284074360,
+          "stop" : 1603284074360,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "ee2e3b1d26e3ad33",
+        "parentUid" : "fa7e7afc981acfc0763bdedd6a606a77",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284074356,
+          "stop" : 1603284074356,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "af6d6359f6e799e9",
+        "parentUid" : "fa7e7afc981acfc0763bdedd6a606a77",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603284074338,
+          "stop" : 1603284074339,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "fa7e7afc981acfc0763bdedd6a606a77"
+    }, {
+      "name" : "5840@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "d8e083ae89699599",
+        "parentUid" : "99a673ab59bcdec472c59dbcff8fd705",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287604984,
+          "stop" : 1603287605451,
+          "duration" : 467
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "99a673ab59bcdec472c59dbcff8fd705"
+    }, {
+      "name" : "1180@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test03: Add all products",
+        "uid" : "fd1c5d7f0819a5be",
+        "parentUid" : "ce4280a353ea4c076dc25f6779076f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287016288,
+          "stop" : 1603287018405,
+          "duration" : 2117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "aa9d4ed69ec1fa88",
+        "parentUid" : "ce4280a353ea4c076dc25f6779076f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287010314,
+          "stop" : 1603287015504,
+          "duration" : 5190
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "cf8738511eabebc0",
+        "parentUid" : "ce4280a353ea4c076dc25f6779076f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287019719,
+          "stop" : 1603287024834,
+          "duration" : 5115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "4a8c583d1fa8718e",
+        "parentUid" : "ce4280a353ea4c076dc25f6779076f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287024842,
+          "stop" : 1603287024853,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "8af03090d25e58e3",
+        "parentUid" : "ce4280a353ea4c076dc25f6779076f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287018481,
+          "stop" : 1603287019717,
+          "duration" : 1236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "7cc60d619aca7ebf",
+        "parentUid" : "ce4280a353ea4c076dc25f6779076f13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603287015714,
+          "stop" : 1603287016229,
+          "duration" : 515
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "ce4280a353ea4c076dc25f6779076f13"
+    }, {
+      "name" : "27084@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test02: Add one product",
+        "uid" : "2c26088f488fde9c",
+        "parentUid" : "50c65c8a82c81c43d900978c48afe613",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604599814871,
+          "stop" : 1604599815141,
+          "duration" : 270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "8883208d6f88b9a9",
+        "parentUid" : "50c65c8a82c81c43d900978c48afe613",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604599818561,
+          "stop" : 1604599821859,
+          "duration" : 3298
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "9cc12fca3c3cb277",
+        "parentUid" : "50c65c8a82c81c43d900978c48afe613",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604599813533,
+          "stop" : 1604599814760,
+          "duration" : 1227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "8f0c65405a0fb685",
+        "parentUid" : "50c65c8a82c81c43d900978c48afe613",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604599817417,
+          "stop" : 1604599818551,
+          "duration" : 1134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "866f7cd684fb4617",
+        "parentUid" : "50c65c8a82c81c43d900978c48afe613",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604599815172,
+          "stop" : 1604599817281,
+          "duration" : 2109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "50c65c8a82c81c43d900978c48afe613"
+    }, {
+      "name" : "6644@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Login to sauceDemo with DB",
+        "uid" : "8d796b0c12acd65f",
+        "parentUid" : "452e79a8581ad518acf2d3d4c219b80f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393696276,
+          "stop" : 1603393697617,
+          "duration" : 1341
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "452e79a8581ad518acf2d3d4c219b80f"
+    }, {
+      "name" : "20012@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "3d210d3bd75ced92",
+        "parentUid" : "86fa11c6b081e4cbfb22dbf78336778f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284846464,
+          "stop" : 1603284847417,
+          "duration" : 953
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "bc184d20fbdc5efb",
+        "parentUid" : "86fa11c6b081e4cbfb22dbf78336778f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284847482,
+          "stop" : 1603284847568,
+          "duration" : 86
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "4eebd0d32bcfe7db",
+        "parentUid" : "86fa11c6b081e4cbfb22dbf78336778f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284847669,
+          "stop" : 1603284847752,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "c80ba731f49fb0d3",
+        "parentUid" : "86fa11c6b081e4cbfb22dbf78336778f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284847571,
+          "stop" : 1603284847667,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86fa11c6b081e4cbfb22dbf78336778f"
+    }, {
+      "name" : "11960@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "c16ecd94b970cd04",
+        "parentUid" : "579a4b7b549597bb7c7175de7c26add7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286700343,
+          "stop" : 1603286701779,
+          "duration" : 1436
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "ae8e5a70c1ea51c7",
+        "parentUid" : "579a4b7b549597bb7c7175de7c26add7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286703751,
+          "stop" : 1603286704404,
+          "duration" : 653
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "52cd1701134040b0",
+        "parentUid" : "579a4b7b549597bb7c7175de7c26add7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286704408,
+          "stop" : 1603286707966,
+          "duration" : 3558
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "db1f701b03a59de6",
+        "parentUid" : "579a4b7b549597bb7c7175de7c26add7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286707970,
+          "stop" : 1603286707976,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "2e45e07a1f1a368",
+        "parentUid" : "579a4b7b549597bb7c7175de7c26add7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286702190,
+          "stop" : 1603286703747,
+          "duration" : 1557
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "81fd7653447de644",
+        "parentUid" : "579a4b7b549597bb7c7175de7c26add7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286701861,
+          "stop" : 1603286702185,
+          "duration" : 324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "579a4b7b549597bb7c7175de7c26add7"
+    }, {
+      "name" : "14248@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "7daef23fd5debc64",
+        "parentUid" : "da3265ed4f98579f4c5cbb950d7cb174",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393571777,
+          "stop" : 1603393571778,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "4fcc45574ab48c68",
+        "parentUid" : "da3265ed4f98579f4c5cbb950d7cb174",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393571798,
+          "stop" : 1603393571798,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "1ef97cdb8c748911",
+        "parentUid" : "da3265ed4f98579f4c5cbb950d7cb174",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603393571666,
+          "stop" : 1603393571667,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "a37dc3a5e53ec1ac",
+        "parentUid" : "da3265ed4f98579f4c5cbb950d7cb174",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393571793,
+          "stop" : 1603393571793,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "e25778022edcc500",
+        "parentUid" : "da3265ed4f98579f4c5cbb950d7cb174",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393571796,
+          "stop" : 1603393571796,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "da3265ed4f98579f4c5cbb950d7cb174"
+    }, {
+      "name" : "4448@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "11390167c0c48b04",
+        "parentUid" : "698a6fca001c75de15b6e66e81d59cd3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603283985019,
+          "stop" : 1603283985019,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "4c3055550dfa9ceb",
+        "parentUid" : "698a6fca001c75de15b6e66e81d59cd3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603283985016,
+          "stop" : 1603283985016,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "b04ee08d1f58dfab",
+        "parentUid" : "698a6fca001c75de15b6e66e81d59cd3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603283984999,
+          "stop" : 1603283985000,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "7c7efdc8ae88ce07",
+        "parentUid" : "698a6fca001c75de15b6e66e81d59cd3",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603283985023,
+          "stop" : 1603283985023,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "86be66ed11b81bed",
+        "parentUid" : "698a6fca001c75de15b6e66e81d59cd3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603283984876,
+          "stop" : 1603283984877,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "698a6fca001c75de15b6e66e81d59cd3"
+    }, {
+      "name" : "14600@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test03: Add all products",
+        "uid" : "944c4cd8d52cd098",
+        "parentUid" : "f1887b7d30ece55aa3793b76f7ffdd91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604600004322,
+          "stop" : 1604600005859,
+          "duration" : 1537
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "cf48dac5e843eed1",
+        "parentUid" : "f1887b7d30ece55aa3793b76f7ffdd91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604600006644,
+          "stop" : 1604600009786,
+          "duration" : 3142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "3e4da3fa711a22b4",
+        "parentUid" : "f1887b7d30ece55aa3793b76f7ffdd91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604600003870,
+          "stop" : 1604600004289,
+          "duration" : 419
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "92e5915d2c7b655a",
+        "parentUid" : "f1887b7d30ece55aa3793b76f7ffdd91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604600005926,
+          "stop" : 1604600006639,
+          "duration" : 713
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "630196c61498034b",
+        "parentUid" : "f1887b7d30ece55aa3793b76f7ffdd91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604600002128,
+          "stop" : 1604600003635,
+          "duration" : 1507
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "f1887b7d30ece55aa3793b76f7ffdd91"
+    }, {
+      "name" : "4788@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "9c529390284efaf8",
+        "parentUid" : "4ffec72ac8db36ff5d32bd3e59febdf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603386742441,
+          "stop" : 1603386742442,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "7941beb418d0b851",
+        "parentUid" : "4ffec72ac8db36ff5d32bd3e59febdf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603386742430,
+          "stop" : 1603386742431,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "83f316c150d5a8a9",
+        "parentUid" : "4ffec72ac8db36ff5d32bd3e59febdf7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603386742333,
+          "stop" : 1603386742336,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "116fa1f118e2e46c",
+        "parentUid" : "4ffec72ac8db36ff5d32bd3e59febdf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603386742438,
+          "stop" : 1603386742439,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "f870f6453f576466",
+        "parentUid" : "4ffec72ac8db36ff5d32bd3e59febdf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603386742444,
+          "stop" : 1603386742444,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ffec72ac8db36ff5d32bd3e59febdf7"
+    }, {
+      "name" : "7844@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "c3cc4ac76d97bac0",
+        "parentUid" : "989c507c368d6968075bdc94127a09e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603386765939,
+          "stop" : 1603386766016,
+          "duration" : 77
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "dd87624cb51d4b26",
+        "parentUid" : "989c507c368d6968075bdc94127a09e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603386764763,
+          "stop" : 1603386765879,
+          "duration" : 1116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "e729f04fa2e468ad",
+        "parentUid" : "989c507c368d6968075bdc94127a09e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603386766023,
+          "stop" : 1603386766113,
+          "duration" : 90
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "eea3c8ad12b74f43",
+        "parentUid" : "989c507c368d6968075bdc94127a09e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603386766117,
+          "stop" : 1603386766198,
+          "duration" : 81
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "989c507c368d6968075bdc94127a09e5"
+    }, {
+      "name" : "22400@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "efc1baae45c801c4",
+        "parentUid" : "7ac9660a4aaf01020b519de3745f193e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284052337,
+          "stop" : 1603284052428,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "abc4fb5ccd5316f1",
+        "parentUid" : "7ac9660a4aaf01020b519de3745f193e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284052432,
+          "stop" : 1603284052511,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "d0b32badc59cec08",
+        "parentUid" : "7ac9660a4aaf01020b519de3745f193e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284051052,
+          "stop" : 1603284052184,
+          "duration" : 1132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "af6742db732eed16",
+        "parentUid" : "7ac9660a4aaf01020b519de3745f193e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603284052249,
+          "stop" : 1603284052332,
+          "duration" : 83
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ac9660a4aaf01020b519de3745f193e"
+    }, {
+      "name" : "21252@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "ba2f9e1a097817d5",
+        "parentUid" : "940525974296dd468105cdd63538e2a4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603395505641,
+          "stop" : 1603395505642,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "da93dd9ca95141f6",
+        "parentUid" : "940525974296dd468105cdd63538e2a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603395505495,
+          "stop" : 1603395505495,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "df4bfbdade8e025c",
+        "parentUid" : "940525974296dd468105cdd63538e2a4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603395505612,
+          "stop" : 1603395505614,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "b5029650b7cdc382",
+        "parentUid" : "940525974296dd468105cdd63538e2a4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603395505638,
+          "stop" : 1603395505638,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "cd0ef056babc31fa",
+        "parentUid" : "940525974296dd468105cdd63538e2a4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603395505634,
+          "stop" : 1603395505634,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "940525974296dd468105cdd63538e2a4"
+    }, {
+      "name" : "26284@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "48bc8e0f5ea266ee",
+        "parentUid" : "68362fc4545c308bad08791294900fb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802395354,
+          "stop" : 1603802396466,
+          "duration" : 1112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "96863bf6de79fd23",
+        "parentUid" : "68362fc4545c308bad08791294900fb8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1603802396472,
+          "stop" : 1603802400349,
+          "duration" : 3877
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "2f801d6261e592f9",
+        "parentUid" : "68362fc4545c308bad08791294900fb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802393002,
+          "stop" : 1603802395351,
+          "duration" : 2349
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "63e12ef1e3601d3c",
+        "parentUid" : "68362fc4545c308bad08791294900fb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802392660,
+          "stop" : 1603802392998,
+          "duration" : 338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "aa583b742df8d311",
+        "parentUid" : "68362fc4545c308bad08791294900fb8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802391395,
+          "stop" : 1603802392584,
+          "duration" : 1189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "68362fc4545c308bad08791294900fb8"
+    }, {
+      "name" : "21648@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "6c1a616b42706343",
+        "parentUid" : "a9dbf1efb99b2b194d47acbe4acd0d9e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603286725939,
+          "stop" : 1603286730028,
+          "duration" : 4089
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "969597489ad463dc",
+        "parentUid" : "a9dbf1efb99b2b194d47acbe4acd0d9e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603286717121,
+          "stop" : 1603286721744,
+          "duration" : 4623
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "62535e55ee8ceaf4",
+        "parentUid" : "a9dbf1efb99b2b194d47acbe4acd0d9e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603286730043,
+          "stop" : 1603286734135,
+          "duration" : 4092
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "90c0c7514527f561",
+        "parentUid" : "a9dbf1efb99b2b194d47acbe4acd0d9e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603286721818,
+          "stop" : 1603286725921,
+          "duration" : 4103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "a9dbf1efb99b2b194d47acbe4acd0d9e"
+    }, {
+      "name" : "15840@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "ddf4d5e8a26713fe",
+        "parentUid" : "c1f62cc6c0eebe0d6d2f4023f8fd46a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393448691,
+          "stop" : 1603393452544,
+          "duration" : 3853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify Url",
+        "uid" : "9cd90cff75951ef3",
+        "parentUid" : "c1f62cc6c0eebe0d6d2f4023f8fd46a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393452546,
+          "stop" : 1603393452551,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "4c7af802f49f2101",
+        "parentUid" : "c1f62cc6c0eebe0d6d2f4023f8fd46a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393448099,
+          "stop" : 1603393448688,
+          "duration" : 589
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "fa42750673b08786",
+        "parentUid" : "c1f62cc6c0eebe0d6d2f4023f8fd46a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393446540,
+          "stop" : 1603393448096,
+          "duration" : 1556
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "10b88a2f59fa2eed",
+        "parentUid" : "c1f62cc6c0eebe0d6d2f4023f8fd46a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393444721,
+          "stop" : 1603393446192,
+          "duration" : 1471
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "a346b34bae039d9e",
+        "parentUid" : "c1f62cc6c0eebe0d6d2f4023f8fd46a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393446244,
+          "stop" : 1603393446537,
+          "duration" : 293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "c1f62cc6c0eebe0d6d2f4023f8fd46a2"
+    }, {
+      "name" : "3900@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "2813e649ef2be8d0",
+        "parentUid" : "c963d51eeeadc11af6c69b17b92acde7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387171952,
+          "stop" : 1603387172433,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "c963d51eeeadc11af6c69b17b92acde7"
+    }, {
+      "name" : "13284@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "8cba90ad9a722955",
+        "parentUid" : "6d22e09d6c1cfd49d72a06bf2c8e717c",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393939593,
+          "stop" : 1603393939593,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "a996ca8d9b8fb9b8",
+        "parentUid" : "6d22e09d6c1cfd49d72a06bf2c8e717c",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393939590,
+          "stop" : 1603393939590,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "403a7eedf45145b9",
+        "parentUid" : "6d22e09d6c1cfd49d72a06bf2c8e717c",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393939574,
+          "stop" : 1603393939575,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "11361d040a3dbbda",
+        "parentUid" : "6d22e09d6c1cfd49d72a06bf2c8e717c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603393939454,
+          "stop" : 1603393939455,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "3f272ce033f400d3",
+        "parentUid" : "6d22e09d6c1cfd49d72a06bf2c8e717c",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393939597,
+          "stop" : 1603393939597,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "6d22e09d6c1cfd49d72a06bf2c8e717c"
+    }, {
+      "name" : "26684@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "7ed07877ed42c2ad",
+        "parentUid" : "8ed1f2714746aeb770c6e0c7cdb71644",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603710112891,
+          "stop" : 1603710113262,
+          "duration" : 371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "8ed1f2714746aeb770c6e0c7cdb71644"
+    }, {
+      "name" : "6744@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "5a7a86c40e95af18",
+        "parentUid" : "8cb204dbb5d9d047782143d17b440bf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393667127,
+          "stop" : 1603393667129,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "2a39838bd2d9b2eb",
+        "parentUid" : "8cb204dbb5d9d047782143d17b440bf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393667148,
+          "stop" : 1603393667148,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "8bbddbe1cbe72da",
+        "parentUid" : "8cb204dbb5d9d047782143d17b440bf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393667145,
+          "stop" : 1603393667145,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "a4ee4eca624676b7",
+        "parentUid" : "8cb204dbb5d9d047782143d17b440bf7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393667142,
+          "stop" : 1603393667142,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "898aa19b5c611fc6",
+        "parentUid" : "8cb204dbb5d9d047782143d17b440bf7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603393667019,
+          "stop" : 1603393667020,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "8cb204dbb5d9d047782143d17b440bf7"
+    }, {
+      "name" : "24872@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Verify multiplication command",
+        "uid" : "483fcf996a57a702",
+        "parentUid" : "47c59b7bbe02d2feeecd6061efbf06b7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603392010800,
+          "stop" : 1603392010801,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "desktop" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "d6e6e8da05fc90bd",
+        "parentUid" : "47c59b7bbe02d2feeecd6061efbf06b7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "desktop" ]
+      } ],
+      "uid" : "47c59b7bbe02d2feeecd6061efbf06b7"
+    }, {
+      "name" : "23616@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "4addc6f39e61b27d",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603394630848,
+          "stop" : 1603394630848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "ae20e5519ff2918f",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395410793,
+          "stop" : 1603395410889,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "1d7237136f56580f",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395409686,
+          "stop" : 1603395410717,
+          "duration" : 1031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "startSession",
+        "uid" : "a46435c4d9345b11",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603394630721,
+          "stop" : 1603394630722,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "393aa4bb5ada0eeb",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395410893,
+          "stop" : 1603395411006,
+          "duration" : 113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "93f703da228071c4",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603395411008,
+          "stop" : 1603395411104,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "d026ff9663328f8c",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603394630854,
+          "stop" : 1603394630854,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "6eb450a7fd79492a",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603394630851,
+          "stop" : 1603394630851,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "66d1d7c7c117820c",
+        "parentUid" : "8c0cb50c2f222da900ede3a1ec4f52c7",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603394630830,
+          "stop" : 1603394630831,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "8c0cb50c2f222da900ede3a1ec4f52c7"
+    }, {
+      "name" : "7052@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test04: Verify Url",
+        "uid" : "77a1de82ac9a4612",
+        "parentUid" : "f710b3d671fa315678c2661dc31653b4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393221543,
+          "stop" : 1603393221543,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "a027bf64b9af249f",
+        "parentUid" : "f710b3d671fa315678c2661dc31653b4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393221527,
+          "stop" : 1603393221527,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "62b772cdf629aa3e",
+        "parentUid" : "f710b3d671fa315678c2661dc31653b4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393221523,
+          "stop" : 1603393221523,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "a78dea9291a71823",
+        "parentUid" : "f710b3d671fa315678c2661dc31653b4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393221538,
+          "stop" : 1603393221538,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "f78f288976215aca",
+        "parentUid" : "f710b3d671fa315678c2661dc31653b4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393221515,
+          "stop" : 1603393221516,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "479bd217c3744c9a",
+        "parentUid" : "f710b3d671fa315678c2661dc31653b4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603393221438,
+          "stop" : 1603393221439,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "1989541705fcaefb",
+        "parentUid" : "f710b3d671fa315678c2661dc31653b4",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393221531,
+          "stop" : 1603393221532,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f710b3d671fa315678c2661dc31653b4"
+    }, {
+      "name" : "11500@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test03: Add all products",
+        "uid" : "6685491c158761e1",
+        "parentUid" : "571c9e88d0818ed3dbbee4fdc004bb8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604596901063,
+          "stop" : 1604596902456,
+          "duration" : 1393
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "7cb15ad5a3f34cd5",
+        "parentUid" : "571c9e88d0818ed3dbbee4fdc004bb8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604596899546,
+          "stop" : 1604596900696,
+          "duration" : 1150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "ca66bdf458b69664",
+        "parentUid" : "571c9e88d0818ed3dbbee4fdc004bb8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604596902508,
+          "stop" : 1604596903241,
+          "duration" : 733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "66b449dc4fb1b8f0",
+        "parentUid" : "571c9e88d0818ed3dbbee4fdc004bb8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604596903246,
+          "stop" : 1604596906303,
+          "duration" : 3057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "5a8011a8b2d8dfce",
+        "parentUid" : "571c9e88d0818ed3dbbee4fdc004bb8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604596900785,
+          "stop" : 1604596901043,
+          "duration" : 258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "571c9e88d0818ed3dbbee4fdc004bb8f"
+    }, {
+      "name" : "13928@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "startSession",
+        "uid" : "91d85ce4a578ba64",
+        "parentUid" : "f09f3a0a2c5568c70bc3143b2766e64e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603802955219,
+          "stop" : 1603802955221,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test01",
+        "uid" : "791970c2e1942c68",
+        "parentUid" : "f09f3a0a2c5568c70bc3143b2766e64e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603802955313,
+          "stop" : 1603802955314,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f09f3a0a2c5568c70bc3143b2766e64e"
+    }, {
+      "name" : "6548@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "startSession",
+        "uid" : "4879eccc8dd415b4",
+        "parentUid" : "461553b81b339d745dd7c499c5cab20b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603803065373,
+          "stop" : 1603803065376,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test01",
+        "uid" : "4b024d1478a5a855",
+        "parentUid" : "461553b81b339d745dd7c499c5cab20b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603803065459,
+          "stop" : 1603803065460,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "461553b81b339d745dd7c499c5cab20b"
+    }, {
+      "name" : "2956@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "647369876d22b24b",
+        "parentUid" : "b9f88105c8f5e1fadb6110c8daadd64b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393603047,
+          "stop" : 1603393603048,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "1dc5ed394f94c639",
+        "parentUid" : "b9f88105c8f5e1fadb6110c8daadd64b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393603059,
+          "stop" : 1603393603059,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "be04107ac42ccb4f",
+        "parentUid" : "b9f88105c8f5e1fadb6110c8daadd64b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "b5ca360fbb5f395f",
+        "parentUid" : "b9f88105c8f5e1fadb6110c8daadd64b",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603393603056,
+          "stop" : 1603393603056,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "startSession",
+        "uid" : "eb814f08790e4f77",
+        "parentUid" : "b9f88105c8f5e1fadb6110c8daadd64b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603393602956,
+          "stop" : 1603393602958,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b9f88105c8f5e1fadb6110c8daadd64b"
+    }, {
+      "name" : "23636@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "f398df29516a5219",
+        "parentUid" : "80f58de8b85570ec09a51744cee7cea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603292395436,
+          "stop" : 1603292395813,
+          "duration" : 377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "80f58de8b85570ec09a51744cee7cea0"
+    }, {
+      "name" : "14112@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "d998bf679078bf72",
+        "parentUid" : "3be583c286ba54c49a45159d59fbbeb3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387641651,
+          "stop" : 1603387642173,
+          "duration" : 522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "3be583c286ba54c49a45159d59fbbeb3"
+    }, {
+      "name" : "13168@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "6ad1c5591b47f4ba",
+        "parentUid" : "788e4c34b351676258d6f3ddd0e4c823",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598554035,
+          "stop" : 1604598557208,
+          "duration" : 3173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "784986d2fb4cc2be",
+        "parentUid" : "788e4c34b351676258d6f3ddd0e4c823",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598552011,
+          "stop" : 1604598553367,
+          "duration" : 1356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "568ecd2c379f510",
+        "parentUid" : "788e4c34b351676258d6f3ddd0e4c823",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598550661,
+          "stop" : 1604598551644,
+          "duration" : 983
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test02: Add one product",
+        "uid" : "70c0694241980586",
+        "parentUid" : "788e4c34b351676258d6f3ddd0e4c823",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598551736,
+          "stop" : 1604598551990,
+          "duration" : 254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "45a87a905f5f92ac",
+        "parentUid" : "788e4c34b351676258d6f3ddd0e4c823",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598553418,
+          "stop" : 1604598554033,
+          "duration" : 615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "788e4c34b351676258d6f3ddd0e4c823"
+    }, {
+      "name" : "10024@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test02: Add one product",
+        "uid" : "856949e6b7fe4567",
+        "parentUid" : "a306663555b8dc4756d5cf664f807da7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598794141,
+          "stop" : 1604598794390,
+          "duration" : 249
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "415baa5314df8b0f",
+        "parentUid" : "a306663555b8dc4756d5cf664f807da7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598795990,
+          "stop" : 1604598796618,
+          "duration" : 628
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "228b8a67b4eaf2c",
+        "parentUid" : "a306663555b8dc4756d5cf664f807da7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598796620,
+          "stop" : 1604598799582,
+          "duration" : 2962
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "3c922a831bbe7bdf",
+        "parentUid" : "a306663555b8dc4756d5cf664f807da7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598794407,
+          "stop" : 1604598795929,
+          "duration" : 1522
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "52ac2f90ef6ef166",
+        "parentUid" : "a306663555b8dc4756d5cf664f807da7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604598792998,
+          "stop" : 1604598794040,
+          "duration" : 1042
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "a306663555b8dc4756d5cf664f807da7"
+    }, {
+      "name" : "20720@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "4a1d6c8a6ee9dfb3",
+        "parentUid" : "d76c268c5d812b8c396b05fabd31ccf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603394447799,
+          "stop" : 1603394447877,
+          "duration" : 78
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "b917cdeb43ecbd56",
+        "parentUid" : "d76c268c5d812b8c396b05fabd31ccf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603394446777,
+          "stop" : 1603394447648,
+          "duration" : 871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "c4b7be7bc0ce969a",
+        "parentUid" : "d76c268c5d812b8c396b05fabd31ccf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603394447709,
+          "stop" : 1603394447796,
+          "duration" : 87
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "f268548bb59165e3",
+        "parentUid" : "d76c268c5d812b8c396b05fabd31ccf7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603394447880,
+          "stop" : 1603394447951,
+          "duration" : 71
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "d76c268c5d812b8c396b05fabd31ccf7"
+    }, {
+      "name" : "21524@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test 04: Delete Team and verify",
+        "uid" : "24abc469673b6c1c",
+        "parentUid" : "6aa462f600c5f95646f1e62bbdf2f60d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393813550,
+          "stop" : 1603393813627,
+          "duration" : 77
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get team from Grafana",
+        "uid" : "23dac266cbfb0f46",
+        "parentUid" : "6aa462f600c5f95646f1e62bbdf2f60d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393812489,
+          "stop" : 1603393813323,
+          "duration" : 834
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 03: update Team and verify ",
+        "uid" : "e65172ce043c5a3b",
+        "parentUid" : "6aa462f600c5f95646f1e62bbdf2f60d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393813468,
+          "stop" : 1603393813547,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test 02: Add team and verify",
+        "uid" : "24ed99241fb01d52",
+        "parentUid" : "6aa462f600c5f95646f1e62bbdf2f60d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393813385,
+          "stop" : 1603393813464,
+          "duration" : 79
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "6aa462f600c5f95646f1e62bbdf2f60d"
+    }, {
+      "name" : "21928@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "377f9eb93c638f6c",
+        "parentUid" : "75f6917c398dc9e929b260f3743d392f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603388412870,
+          "stop" : 1603388413348,
+          "duration" : 478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "75f6917c398dc9e929b260f3743d392f"
+    }, {
+      "name" : "21748@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test02: Add one product",
+        "uid" : "11f31374d7e64aed",
+        "parentUid" : "0d9f6d5aaa640ddb25250feb3f3b4e0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802425892,
+          "stop" : 1603802426400,
+          "duration" : 508
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test03: Add all products",
+        "uid" : "6955a8d6f3a4ba0a",
+        "parentUid" : "0d9f6d5aaa640ddb25250feb3f3b4e0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802426407,
+          "stop" : 1603802428807,
+          "duration" : 2400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Navigate to LabsPage",
+        "uid" : "aba4ed7bdff4ec01",
+        "parentUid" : "0d9f6d5aaa640ddb25250feb3f3b4e0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802429892,
+          "stop" : 1603802433925,
+          "duration" : 4033
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test04: Verify product's page robot",
+        "uid" : "5346d7e767d920d0",
+        "parentUid" : "0d9f6d5aaa640ddb25250feb3f3b4e0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802428812,
+          "stop" : 1603802429884,
+          "duration" : 1072
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      }, {
+        "name" : "Test01: Login to sauceDemo",
+        "uid" : "952a9b323d1048dc",
+        "parentUid" : "0d9f6d5aaa640ddb25250feb3f3b4e0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603802424679,
+          "stop" : 1603802425739,
+          "duration" : 1060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "web" ]
+      } ],
+      "uid" : "0d9f6d5aaa640ddb25250feb3f3b4e0d"
+    }, {
+      "name" : "7808@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "startSession",
+        "uid" : "24ce7be59f106c79",
+        "parentUid" : "f3542fb7cd2f6565c4be4a1d06ac5af1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603285507077,
+          "stop" : 1603285507080,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01: Get the app's location",
+        "uid" : "47534adeed52379c",
+        "parentUid" : "f3542fb7cd2f6565c4be4a1d06ac5af1",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603285507180,
+          "stop" : 1603285507182,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3542fb7cd2f6565c4be4a1d06ac5af1"
+    }, {
+      "name" : "22252@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "710abed9818367e",
+        "parentUid" : "1537b54ad5cc8c4b67d28a9ffa49f7a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603292479752,
+          "stop" : 1603292480082,
+          "duration" : 330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "1537b54ad5cc8c4b67d28a9ffa49f7a2"
+    }, {
+      "name" : "24556@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "e567b4cb4c80296e",
+        "parentUid" : "2fee15c899c5760b65eddc5d8445e8c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603291327842,
+          "stop" : 1603291328373,
+          "duration" : 531
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "2fee15c899c5760b65eddc5d8445e8c9"
+    }, {
+      "name" : "13740@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "3b2b8932f00e80e6",
+        "parentUid" : "2059f0ae75d1fba821267451c2054a2b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603286979476,
+          "stop" : 1603286980075,
+          "duration" : 599
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "2059f0ae75d1fba821267451c2054a2b"
+    }, {
+      "name" : "4464@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "a849fff254f91b6f",
+        "parentUid" : "fbbe82f327b921542aefda747af8afbf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283474796,
+          "stop" : 1603283475148,
+          "duration" : 352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fbbe82f327b921542aefda747af8afbf"
+    }, {
+      "name" : "16460@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "test01",
+        "uid" : "1030c211359db00",
+        "parentUid" : "8ec897292dc61fdad1123f411a06c86c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603803127971,
+          "stop" : 1603803130352,
+          "duration" : 2381
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8ec897292dc61fdad1123f411a06c86c"
+    }, {
+      "name" : "12992@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "9dc6950a98f9dc98",
+        "parentUid" : "4fda30995c277c1621f4c4b0dd25bccb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603392537159,
+          "stop" : 1603392537447,
+          "duration" : 288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "4fda30995c277c1621f4c4b0dd25bccb"
+    }, {
+      "name" : "9944@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "1f85d96e683a75ae",
+        "parentUid" : "62d2f8731103a0ce4e7dcb681fcaa9c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603303906874,
+          "stop" : 1603303907339,
+          "duration" : 465
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "62d2f8731103a0ce4e7dcb681fcaa9c2"
+    }, {
+      "name" : "17912@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "20c0c393fbc57343",
+        "parentUid" : "1d80f02c0bff82fb8907f273032a7ba8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603388390112,
+          "stop" : 1603388390608,
+          "duration" : 496
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "1d80f02c0bff82fb8907f273032a7ba8"
+    }, {
+      "name" : "18332@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "2ef16ac3e065ec12",
+        "parentUid" : "10851abcb6b5e6e92d1eeccecfdf7f1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283331321,
+          "stop" : 1603283331668,
+          "duration" : 347
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "10851abcb6b5e6e92d1eeccecfdf7f1e"
+    }, {
+      "name" : "19944@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "95b8838f690e22cf",
+        "parentUid" : "0350698b5b96bd2e9b2b052ccc65ba77",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603283882180,
+          "stop" : 1603283882514,
+          "duration" : 334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "0350698b5b96bd2e9b2b052ccc65ba77"
+    }, {
+      "name" : "10668@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "34bfdcd1dc9786b6",
+        "parentUid" : "5c5e812e2db6280d92897a486aa14cd5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603387837343,
+          "stop" : 1603387837802,
+          "duration" : 459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "5c5e812e2db6280d92897a486aa14cd5"
+    }, {
+      "name" : "16348@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "914bbf615fbf90ec",
+        "parentUid" : "b4d4f44d3ac08ce5fda85cd5b5c1238e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603303700528,
+          "stop" : 1603303700978,
+          "duration" : 450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "b4d4f44d3ac08ce5fda85cd5b5c1238e"
+    }, {
+      "name" : "11564@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "73fd252bfd7460ec",
+        "parentUid" : "31bf2f04a48b835824378e97e82d4744",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603392564531,
+          "stop" : 1603392564809,
+          "duration" : 278
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "31bf2f04a48b835824378e97e82d4744"
+    }, {
+      "name" : "18604@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "13e1015f51807d43",
+        "parentUid" : "7fa8c2f81a639c7a4fc73cba2a419ee4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603385565926,
+          "stop" : 1603385566284,
+          "duration" : 358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "7fa8c2f81a639c7a4fc73cba2a419ee4"
+    }, {
+      "name" : "20116@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "16c33a36351cc42f",
+        "parentUid" : "fb39bc7e5e9aedd90dc1bf0f6d80eb8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603388775268,
+          "stop" : 1603388775843,
+          "duration" : 575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "fb39bc7e5e9aedd90dc1bf0f6d80eb8d"
+    }, {
+      "name" : "4280@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "caa69f6297f15f36",
+        "parentUid" : "118c38f96162e687aa7d3fd6d9c392f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603303836399,
+          "stop" : 1603303836939,
+          "duration" : 540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "118c38f96162e687aa7d3fd6d9c392f2"
+    }, {
+      "name" : "14376@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "f3a5bd877dc3aa9f",
+        "parentUid" : "8beba3594fbe8de3a30ab21feb4d6d22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603393300604,
+          "stop" : 1603393300854,
+          "duration" : 250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "8beba3594fbe8de3a30ab21feb4d6d22"
+    }, {
+      "name" : "8888@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Get the app's location",
+        "uid" : "74a3be7003390ce8",
+        "parentUid" : "2c9106d50ff2cddfce994246749c6d30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603298299413,
+          "stop" : 1603298299786,
+          "duration" : 373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "electron" ]
+      } ],
+      "uid" : "2c9106d50ff2cddfce994246749c6d30"
+    }, {
+      "name" : "14012@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Verify multiplication command",
+        "uid" : "5f1af102e18d7ad3",
+        "parentUid" : "89dac1574ee85440315109f750474a79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603392442108,
+          "stop" : 1603392444132,
+          "duration" : 2024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "desktop" ]
+      } ],
+      "uid" : "89dac1574ee85440315109f750474a79"
+    }, {
+      "name" : "16944@DESKTOP-SS4RDQI.main(1)",
+      "children" : [ {
+        "name" : "Test01: Verify multiplication command",
+        "uid" : "6088c6890640f978",
+        "parentUid" : "5d3ebc24d18433c52485ff5291fdbfb6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603392627641,
+          "stop" : 1603392630143,
+          "duration" : 2502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "desktop" ]
+      } ],
+      "uid" : "5d3ebc24d18433c52485ff5291fdbfb6"
+    } ],
+    "uid" : "9018f53ae1001f38de993f4572878f61"
+  } ]
+}

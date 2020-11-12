@@ -1,0 +1,97 @@
+{
+  "uid" : "f3a5bd877dc3aa9f",
+  "name" : "Test01: Get the app's location",
+  "fullName" : "SanityTests.electronDemo.test01_appLocation",
+  "historyId" : "6710f42ed674e74f91c406516e732cc3",
+  "time" : {
+    "start" : 1603393300604,
+    "stop" : 1603393300854,
+    "duration" : 250
+  },
+  "description" : "Test Description: Get app's location and verify it",
+  "descriptionHtml" : "<p>Test Description: Get app's location and verify it</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1603393294089,
+      "stop" : 1603393300575,
+      "duration" : 6486
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1603393300905,
+      "stop" : 1603393301480,
+      "duration" : 575
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.electronDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.electronDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "test01_appLocation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Electron Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.electronDemo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "14376@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "electron"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3a5bd877dc3aa9f.json",
+  "parameterValues" : [ "electron" ]
+}

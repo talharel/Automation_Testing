@@ -1,0 +1,126 @@
+{
+  "uid" : "f5e70b7308fe75d6",
+  "name" : "Test04: Verify Url",
+  "fullName" : "SanityTests.sauceDemoWeb.test06",
+  "historyId" : "aabc0197e29ec020293b6e2e84bdf4a1",
+  "time" : {
+    "start" : 1603283533836,
+    "stop" : 1603283533845,
+    "duration" : 9
+  },
+  "description" : "Test Description: Verify Url",
+  "descriptionHtml" : "<p>Test Description: Verify Url</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1603283504782,
+      "stop" : 1603283515367,
+      "duration" : 10585
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Verify Url",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify text",
+      "time" : {
+        "start" : 1603283533845,
+        "stop" : 1603283533845,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "actual",
+        "value" : "https://saucelabs.com/"
+      }, {
+        "name" : "expected",
+        "value" : "https://saucelabs.com/"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1603283533850,
+      "stop" : 1603283534524,
+      "duration" : 674
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test06"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "13952@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5e70b7308fe75d6.json",
+  "parameterValues" : [ ]
+}

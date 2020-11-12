@@ -1,0 +1,331 @@
+[ {
+  "uid" : "88fa79cc8b39e73a",
+  "name" : "Test01: Get team from Grafana",
+  "time" : {
+    "start" : 1603395567462,
+    "stop" : 1603395569010,
+    "duration" : 1548
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4879eccc8dd415b4",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1603803065373,
+    "stop" : 1603803065376,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1dc5ed394f94c639",
+  "name" : "Test 03: update Team and verify ",
+  "time" : {
+    "start" : 1603393603059,
+    "stop" : 1603393603059,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "69157974fa4db26d",
+  "name" : "Test 04: Delete Team and verify",
+  "time" : {
+    "start" : 1603395569573,
+    "stop" : 1603395569746,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92e5915d2c7b655a",
+  "name" : "Test04: Verify product's page robot",
+  "time" : {
+    "start" : 1604600005926,
+    "stop" : 1604600006639,
+    "duration" : 713
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5ca360fbb5f395f",
+  "name" : "Test 02: Add team and verify",
+  "time" : {
+    "start" : 1603393603056,
+    "stop" : 1603393603056,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a027bf64b9af249f",
+  "name" : "Test03: Add all products",
+  "time" : {
+    "start" : 1603393221527,
+    "stop" : 1603393221527,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cdf23582169db167",
+  "name" : "Test 03: update Team and verify ",
+  "time" : {
+    "start" : 1603395569294,
+    "stop" : 1603395569527,
+    "duration" : 233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be04107ac42ccb4f",
+  "name" : "Test 04: Delete Team and verify",
+  "time" : {
+    "start" : 1603393603062,
+    "stop" : 1603393603063,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "eb814f08790e4f77",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1603393602956,
+    "stop" : 1603393602958,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7d9ee54cd4e9be2e",
+  "name" : "Test 02: Add team and verify",
+  "time" : {
+    "start" : 1603395569103,
+    "stop" : 1603395569279,
+    "duration" : 176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d796b0c12acd65f",
+  "name" : "Test01: Login to sauceDemo with DB",
+  "time" : {
+    "start" : 1603393696276,
+    "stop" : 1603393697617,
+    "duration" : 1341
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62b772cdf629aa3e",
+  "name" : "Test02: Add one product",
+  "time" : {
+    "start" : 1603393221523,
+    "stop" : 1603393221523,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1989541705fcaefb",
+  "name" : "Test04: Verify product's page robot",
+  "time" : {
+    "start" : 1603393221531,
+    "stop" : 1603393221532,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6088c6890640f978",
+  "name" : "Test01: Verify multiplication command",
+  "time" : {
+    "start" : 1603392627641,
+    "stop" : 1603392630143,
+    "duration" : 2502
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77a1de82ac9a4612",
+  "name" : "Test04: Verify Url",
+  "time" : {
+    "start" : 1603393221543,
+    "stop" : 1603393221543,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cf48dac5e843eed1",
+  "name" : "Test04: Navigate to LabsPage",
+  "time" : {
+    "start" : 1604600006644,
+    "stop" : 1604600009786,
+    "duration" : 3142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a78dea9291a71823",
+  "name" : "Test04: Navigate to LabsPage",
+  "time" : {
+    "start" : 1603393221538,
+    "stop" : 1603393221538,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1030c211359db00",
+  "name" : "test01",
+  "time" : {
+    "start" : 1603803127971,
+    "stop" : 1603803130352,
+    "duration" : 2381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d41420d982680fa",
+  "name" : "Test01: Login to sauceDemo with DB",
+  "time" : {
+    "start" : 1603298351785,
+    "stop" : 1603298351786,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "f78f288976215aca",
+  "name" : "Test01: Login to sauceDemo",
+  "time" : {
+    "start" : 1603393221515,
+    "stop" : 1603393221516,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "479bd217c3744c9a",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1603393221438,
+    "stop" : 1603393221439,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fc6a9037c8988da4",
+  "name" : "Test01: Get the app's location",
+  "time" : {
+    "start" : 1603286062138,
+    "stop" : 1603286062139,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "7ed07877ed42c2ad",
+  "name" : "Test01: Get the app's location",
+  "time" : {
+    "start" : 1603710112891,
+    "stop" : 1603710113262,
+    "duration" : 371
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "630196c61498034b",
+  "name" : "Test01: Login to sauceDemo",
+  "time" : {
+    "start" : 1604600002128,
+    "stop" : 1604600003635,
+    "duration" : 1507
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "da93dd9ca95141f6",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1603395505495,
+    "stop" : 1603395505495,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "647369876d22b24b",
+  "name" : "Test01: Get team from Grafana",
+  "time" : {
+    "start" : 1603393603047,
+    "stop" : 1603393603048,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3e4da3fa711a22b4",
+  "name" : "Test02: Add one product",
+  "time" : {
+    "start" : 1604600003870,
+    "stop" : 1604600004289,
+    "duration" : 419
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6e6e8da05fc90bd",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1603392010736,
+    "stop" : 1603392010737,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ace935dbd38f80d6",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1603298351689,
+    "stop" : 1603298351691,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "32c87cab138e23c7",
+  "name" : "startSession",
+  "time" : {
+    "start" : 1603286062045,
+    "stop" : 1603286062047,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "47c6b0dab8203f34",
+  "name" : "Test04: Verify Url",
+  "time" : {
+    "start" : 1603710141859,
+    "stop" : 1603710141870,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "944c4cd8d52cd098",
+  "name" : "Test03: Add all products",
+  "time" : {
+    "start" : 1604600004322,
+    "stop" : 1604600005859,
+    "duration" : 1537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

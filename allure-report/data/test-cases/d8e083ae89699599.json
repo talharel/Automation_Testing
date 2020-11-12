@@ -1,0 +1,180 @@
+{
+  "uid" : "d8e083ae89699599",
+  "name" : "Test01: Get the app's location",
+  "fullName" : "SanityTests.electronDemo.test01_appLocation",
+  "historyId" : "6710f42ed674e74f91c406516e732cc3",
+  "time" : {
+    "start" : 1603287604984,
+    "stop" : 1603287605451,
+    "duration" : 467
+  },
+  "description" : "Test Description: Get app's location and verify it",
+  "descriptionHtml" : "<p>Test Description: Get app's location and verify it</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1603287598086,
+      "stop" : 1603287604870,
+      "duration" : 6784
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Get app's location and verify it",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Get app's location",
+      "time" : {
+        "start" : 1603287605089,
+        "stop" : 1603287605375,
+        "duration" : 286
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Click on element",
+        "time" : {
+          "start" : 1603287605193,
+          "stop" : 1603287605277,
+          "duration" : 84
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "element",
+          "value" : "[[ChromeDriver: chrome on XP (98a4f0e7f0d33f7022c52067a98bd278)] -> id: button-app-sys-information]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Click on element",
+        "time" : {
+          "start" : 1603287605301,
+          "stop" : 1603287605375,
+          "duration" : 74
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "element",
+          "value" : "[[ChromeDriver: chrome on XP (98a4f0e7f0d33f7022c52067a98bd278)] -> id: app-info]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 2,
+      "hasContent" : true
+    }, {
+      "name" : "Verify text in element",
+      "time" : {
+        "start" : 1603287605415,
+        "stop" : 1603287605450,
+        "duration" : 35
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "element",
+        "value" : "[[ChromeDriver: chrome on XP (98a4f0e7f0d33f7022c52067a98bd278)] -> id: got-app-info]"
+      }, {
+        "name" : "expectedValue",
+        "value" : "This app is located at: C:\\Automation\\electronApp\\ElectronAPIDemos-win32-ia32\\resources\\app"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1603287605683,
+      "stop" : 1603287606262,
+      "duration" : 579
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.electronDemo"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.electronDemo"
+  }, {
+    "name" : "testMethod",
+    "value" : "test01_appLocation"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Electron Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.electronDemo"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "5840@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "electron"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8e083ae89699599.json",
+  "parameterValues" : [ "electron" ]
+}

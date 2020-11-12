@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: SanityTests.grafanaApi
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 5, Time elapsed: 1.59 s <<< FAILURE! - in SanityTests.grafanaApi
+startSession(SanityTests.grafanaApi)  Time elapsed: 1.228 s  <<< FAILURE!
+java.lang.NoClassDefFoundError: javax/xml/bind/JAXBException
+Caused by: java.lang.ClassNotFoundException: javax.xml.bind.JAXBException
+

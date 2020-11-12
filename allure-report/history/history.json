@@ -1,0 +1,4394 @@
+{
+  "34ae5fe3ae3df47135f89665d6bc9bde" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 52,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 52
+    },
+    "items" : [ {
+      "uid" : "eb814f08790e4f77",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/eb814f08790e4f77",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1517c0ab592e81c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/1517c0ab592e81c",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "8be1cd77d67bfe26",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/8be1cd77d67bfe26",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "fd6381aaa5f9c42f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/fd6381aaa5f9c42f",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9fac55543e9b4be6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/9fac55543e9b4be6",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "72f1ba58c91c9872",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/72f1ba58c91c9872",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ddb0680cd3e0ebb",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/ddb0680cd3e0ebb",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "93eb39536d80db9d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/93eb39536d80db9d",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9c05b45704baf52a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/9c05b45704baf52a",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f5886e56a59f8b12",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/f5886e56a59f8b12",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3f7944fb58adf39a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/3f7944fb58adf39a",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a3d218004f8c8fc0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/a3d218004f8c8fc0",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "31b4f804cee5a954",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/31b4f804cee5a954",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393602956,
+        "stop" : 1603393602958,
+        "duration" : 2
+      }
+    } ]
+  },
+  "6370beda61b6707c06d55566e05ee3d9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 8,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "1030c211359db00",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/1030c211359db00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    }, {
+      "uid" : "4f7b5d43cb87c9d7",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/4f7b5d43cb87c9d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    }, {
+      "uid" : "d84de61a5103705f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/d84de61a5103705f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    }, {
+      "uid" : "bd6eed9573b48e5e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/bd6eed9573b48e5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    }, {
+      "uid" : "bc4eb34eb94ef1a0",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/bc4eb34eb94ef1a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    }, {
+      "uid" : "782f9a03681731fb",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/782f9a03681731fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    }, {
+      "uid" : "584ee2016674805c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/584ee2016674805c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    }, {
+      "uid" : "cc47154fac050e5e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/cc47154fac050e5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803127971,
+        "stop" : 1603803130352,
+        "duration" : 2381
+      }
+    } ]
+  },
+  "3535264605ea9edd7647cbabb9b6f643" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 32,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 52
+    },
+    "items" : [ {
+      "uid" : "647369876d22b24b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/647369876d22b24b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "49a7b2416e459e4e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/49a7b2416e459e4e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "637f05278e158c9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/637f05278e158c9",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1b68f62dcf9a88c8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/1b68f62dcf9a88c8",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8f1a23b21339de6f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/8f1a23b21339de6f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "88fa6c8f008a8e6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/88fa6c8f008a8e6",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4e67b58c2d6e69a9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/4e67b58c2d6e69a9",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "52a8dfe85621cde5",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/52a8dfe85621cde5",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2cb8d8c876cabfdc",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/2cb8d8c876cabfdc",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3426dd248904127b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/3426dd248904127b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eedb986171f0ed8a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/eedb986171f0ed8a",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "94afcfba5bd35ab3",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/94afcfba5bd35ab3",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "21b9f43d930e152d",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/21b9f43d930e152d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603047,
+        "stop" : 1603393603048,
+        "duration" : 1
+      }
+    } ]
+  },
+  "26f0d53a9246a609a9841b376dd9fe1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 17,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 17
+    },
+    "items" : [ {
+      "uid" : "d6e6e8da05fc90bd",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/d6e6e8da05fc90bd",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1a4ec651b978f29c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/1a4ec651b978f29c",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "77be747768fd714b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/77be747768fd714b",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ac52e983967249ae",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/ac52e983967249ae",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4d2899613be68b8d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/4d2899613be68b8d",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c5448f19cf8b015f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/c5448f19cf8b015f",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3b0e0b077c6364ab",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/3b0e0b077c6364ab",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "95c589bcc64fb38d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/95c589bcc64fb38d",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "18ba196bc0d81618",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/18ba196bc0d81618",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "390ccf0846b5ca2e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/390ccf0846b5ca2e",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7af8eee860b9e64f",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/7af8eee860b9e64f",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "dd511272ae3b270c",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/dd511272ae3b270c",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "79832517c19fe8f3",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/79832517c19fe8f3",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+      "time" : {
+        "start" : 1603392010736,
+        "stop" : 1603392010737,
+        "duration" : 1
+      }
+    } ]
+  },
+  "67b8b1f7b85bbd04e6ea3fd775a95187" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 32,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 52
+    },
+    "items" : [ {
+      "uid" : "b5ca360fbb5f395f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/b5ca360fbb5f395f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "365054502e1621f1",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/365054502e1621f1",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c43e9a89af0e6454",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/c43e9a89af0e6454",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dc6c31b10337dfee",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/dc6c31b10337dfee",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c4a617548a50f336",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/c4a617548a50f336",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3ccc787e323ee359",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/3ccc787e323ee359",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "10867dd8b607b693",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/10867dd8b607b693",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dd31dbebc3294129",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/dd31dbebc3294129",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "38c78aea38cae9cf",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/38c78aea38cae9cf",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e3e270ab920f927",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/e3e270ab920f927",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "febf3d635bf9221d",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/febf3d635bf9221d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "266dd6ff64470d71",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/266dd6ff64470d71",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f366f03db50e24b0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/f366f03db50e24b0",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603056,
+        "stop" : 1603393603056,
+        "duration" : 0
+      }
+    } ]
+  },
+  "479823c8fb6bba6f34f8f47d36900523" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 36,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 54
+    },
+    "items" : [ {
+      "uid" : "a78dea9291a71823",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/a78dea9291a71823",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9db0bee76d142216",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/9db0bee76d142216",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "360a1292e99e6219",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/360a1292e99e6219",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2a2c1833d0287944",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/2a2c1833d0287944",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4cda49a75c978b49",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/4cda49a75c978b49",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eca00724baa111bd",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/eca00724baa111bd",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "236b8e3713bfc51e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/236b8e3713bfc51e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6f9360c41efd7371",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/6f9360c41efd7371",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "91e2367eb8e78db3",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/91e2367eb8e78db3",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8d235d279f1230fb",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/8d235d279f1230fb",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "71c7a295050c075e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/71c7a295050c075e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "71dd7d3bd9089e20",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/71dd7d3bd9089e20",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "803988c6e5ffa510",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/803988c6e5ffa510",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221538,
+        "stop" : 1603393221538,
+        "duration" : 0
+      }
+    } ]
+  },
+  "faa74ee86c837e9cea6144c11888b1c8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 8,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "88fa79cc8b39e73a",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/88fa79cc8b39e73a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "77f7f4415388d97",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/77f7f4415388d97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "89af0fa6c99e6bef",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/89af0fa6c99e6bef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "767fa69f3374afb1",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/767fa69f3374afb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "f0206f90952b5206",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/f0206f90952b5206",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "8ebe8967278a730c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/8ebe8967278a730c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "2aa8cfb467a62a51",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/2aa8cfb467a62a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "4d80470860496894",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/4d80470860496894",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395567462,
+        "stop" : 1603395569010,
+        "duration" : 1548
+      }
+    }, {
+      "uid" : "4c77b3f5d90389da",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/4c77b3f5d90389da",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505612,
+        "stop" : 1603395505614,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "11361f0e0f28e224",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/11361f0e0f28e224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395427999,
+        "stop" : 1603395429521,
+        "duration" : 1522
+      }
+    }, {
+      "uid" : "582a792b0e65b85",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/582a792b0e65b85",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603394630830,
+        "stop" : 1603394630831,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b477cad48739a904",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/b477cad48739a904",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393939574,
+        "stop" : 1603393939575,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ad0cea5b96afb25b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/ad0cea5b96afb25b",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393667127,
+        "stop" : 1603393667129,
+        "duration" : 2
+      }
+    } ]
+  },
+  "d61dbc39a299dc844f80d26e81b63bbc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 8,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "cdf23582169db167",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/cdf23582169db167",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "5950f2cb335deb75",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/5950f2cb335deb75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "abdc30cc3bd77e7c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/abdc30cc3bd77e7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "54706ada4ccdcd6f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/54706ada4ccdcd6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "e138f52a228ba6af",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/e138f52a228ba6af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "e2aa2b31a2af81e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/e2aa2b31a2af81e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "9f9b7855d701f0bf",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/9f9b7855d701f0bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "499e063d20dcf77a",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/499e063d20dcf77a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569294,
+        "stop" : 1603395569527,
+        "duration" : 233
+      }
+    }, {
+      "uid" : "fd29a13c59721db0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/fd29a13c59721db0",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505638,
+        "stop" : 1603395505638,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "15f6d283147983",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/15f6d283147983",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395429790,
+        "stop" : 1603395430037,
+        "duration" : 247
+      }
+    }, {
+      "uid" : "812ab345ef8a43fd",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/812ab345ef8a43fd",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603394630851,
+        "stop" : 1603394630851,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ea06dee3047baa5f",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/ea06dee3047baa5f",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393939593,
+        "stop" : 1603393939593,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "177bceff15a2a125",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/177bceff15a2a125",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393667145,
+        "stop" : 1603393667145,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f110fc6d6c6f77d5ae179a972d1130d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "47c6b0dab8203f34",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/47c6b0dab8203f34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "94501d83d65aee2",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/94501d83d65aee2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "5d7519aad6755660",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/5d7519aad6755660",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "33f4526eabcf50ec",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/33f4526eabcf50ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "186d4e2eda508bb5",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/186d4e2eda508bb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "32a94afc871893f6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/32a94afc871893f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "ca0fd31d1c09c776",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/ca0fd31d1c09c776",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "df2f42ff49179fe0",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/df2f42ff49179fe0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710141859,
+        "stop" : 1603710141870,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "51c5a115882e3b23",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/51c5a115882e3b23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393452546,
+        "stop" : 1603393452551,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "df8091c1244cf871",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/df8091c1244cf871",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393452546,
+        "stop" : 1603393452551,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "e415b884f0768af6",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/e415b884f0768af6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393452546,
+        "stop" : 1603393452551,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "14d99bc6f75744bc",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/14d99bc6f75744bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393452546,
+        "stop" : 1603393452551,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "e51dcadca4421e4",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/e51dcadca4421e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393452546,
+        "stop" : 1603393452551,
+        "duration" : 5
+      }
+    } ]
+  },
+  "9b4129955aeb6c9060dd9a2792e6f195" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 14,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "8d796b0c12acd65f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/8d796b0c12acd65f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "40c77247bb4d030e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/40c77247bb4d030e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "8403e2f0569af5c9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/8403e2f0569af5c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "8c269877a1d7b9c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/8c269877a1d7b9c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "5543e248decbceeb",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/5543e248decbceeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "917e748e44e20d2c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/917e748e44e20d2c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "80d00d41f1ce36ee",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/80d00d41f1ce36ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "9b2101e6dc6708e2",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/9b2101e6dc6708e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "ddaea161614ed82",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/ddaea161614ed82",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "24b6bfea936d726a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/24b6bfea936d726a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "287ec70c570c5c13",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/287ec70c570c5c13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "c1d24ef9d0c7332c",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/c1d24ef9d0c7332c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393696276,
+        "stop" : 1603393697617,
+        "duration" : 1341
+      }
+    }, {
+      "uid" : "ca741493ee344928",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/ca741493ee344928",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393481752,
+        "stop" : 1603393483139,
+        "duration" : 1387
+      }
+    } ]
+  },
+  "2a9818eb01ad9885461dbf4c25d9c0e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "92e5915d2c7b655a",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/92e5915d2c7b655a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604600005926,
+        "stop" : 1604600006639,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "482f935fca69d893",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/482f935fca69d893",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604599817417,
+        "stop" : 1604599818551,
+        "duration" : 1134
+      }
+    }, {
+      "uid" : "57dce0d6d12b85a0",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/57dce0d6d12b85a0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598795990,
+        "stop" : 1604598796618,
+        "duration" : 628
+      }
+    }, {
+      "uid" : "ff3f4990c1a184b7",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/ff3f4990c1a184b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598795990,
+        "stop" : 1604598796618,
+        "duration" : 628
+      }
+    }, {
+      "uid" : "9f91f7cbc923e14",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/9f91f7cbc923e14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598795990,
+        "stop" : 1604598796618,
+        "duration" : 628
+      }
+    }, {
+      "uid" : "195d2f3ab60bb63d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/195d2f3ab60bb63d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598553418,
+        "stop" : 1604598554033,
+        "duration" : 615
+      }
+    }, {
+      "uid" : "589f38112b10f5d9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/589f38112b10f5d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604596902508,
+        "stop" : 1604596903241,
+        "duration" : 733
+      }
+    }, {
+      "uid" : "ba27f80475f5e53d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/ba27f80475f5e53d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803196217,
+        "stop" : 1603803197258,
+        "duration" : 1041
+      }
+    }, {
+      "uid" : "bf41aef11312c857",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/bf41aef11312c857",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448099,
+        "stop" : 1603393448688,
+        "duration" : 589
+      }
+    }, {
+      "uid" : "cbdad4b7c92cb805",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/cbdad4b7c92cb805",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448099,
+        "stop" : 1603393448688,
+        "duration" : 589
+      }
+    }, {
+      "uid" : "e8ae19b2ac376919",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/e8ae19b2ac376919",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448099,
+        "stop" : 1603393448688,
+        "duration" : 589
+      }
+    }, {
+      "uid" : "2f8395005427a845",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/2f8395005427a845",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448099,
+        "stop" : 1603393448688,
+        "duration" : 589
+      }
+    }, {
+      "uid" : "b87619dc278816a8",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/b87619dc278816a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448099,
+        "stop" : 1603393448688,
+        "duration" : 589
+      }
+    } ]
+  },
+  "b059c4ebe06e47e8df2578d0289b6628" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 48,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 48
+    },
+    "items" : [ {
+      "uid" : "479bd217c3744c9a",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/479bd217c3744c9a",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d0968ce1e557547c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/d0968ce1e557547c",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "194ed43dadf62a00",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/194ed43dadf62a00",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "990670b811508018",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/990670b811508018",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d49b24b11b2aaedb",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/d49b24b11b2aaedb",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3c7b34696d8ed27a",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/3c7b34696d8ed27a",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a8f499bc192b9455",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/a8f499bc192b9455",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5192625cfde4b9f8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/5192625cfde4b9f8",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ffaf4e3c714b8061",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/ffaf4e3c714b8061",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b85a0b6de92f7417",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/b85a0b6de92f7417",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ea01814b0b5680ca",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/ea01814b0b5680ca",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3f211f6004d6fe55",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/3f211f6004d6fe55",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b63aff8ba8f3cc78",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/b63aff8ba8f3cc78",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221438,
+        "stop" : 1603393221439,
+        "duration" : 1
+      }
+    } ]
+  },
+  "573c1f37e5b6918c657e12d686b0cb6c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "cf48dac5e843eed1",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/cf48dac5e843eed1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604600006644,
+        "stop" : 1604600009786,
+        "duration" : 3142
+      }
+    }, {
+      "uid" : "db558c42b3e9ab7e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/db558c42b3e9ab7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604599818561,
+        "stop" : 1604599821859,
+        "duration" : 3298
+      }
+    }, {
+      "uid" : "89d5ccc7fa89aafc",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/89d5ccc7fa89aafc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598796620,
+        "stop" : 1604598799582,
+        "duration" : 2962
+      }
+    }, {
+      "uid" : "557a5b8eaf9caa0d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/557a5b8eaf9caa0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598796620,
+        "stop" : 1604598799582,
+        "duration" : 2962
+      }
+    }, {
+      "uid" : "9eeb852c754bac2f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/9eeb852c754bac2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598796620,
+        "stop" : 1604598799582,
+        "duration" : 2962
+      }
+    }, {
+      "uid" : "2399bed989f74d68",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/2399bed989f74d68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598554035,
+        "stop" : 1604598557208,
+        "duration" : 3173
+      }
+    }, {
+      "uid" : "6d3eabb83414d1f9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/6d3eabb83414d1f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604596903246,
+        "stop" : 1604596906303,
+        "duration" : 3057
+      }
+    }, {
+      "uid" : "df7f8a1ad36b1ee5",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/df7f8a1ad36b1ee5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803197267,
+        "stop" : 1603803201584,
+        "duration" : 4317
+      }
+    }, {
+      "uid" : "f9a592bd36667aa9",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/f9a592bd36667aa9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448691,
+        "stop" : 1603393452544,
+        "duration" : 3853
+      }
+    }, {
+      "uid" : "caeea97edd047245",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/caeea97edd047245",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448691,
+        "stop" : 1603393452544,
+        "duration" : 3853
+      }
+    }, {
+      "uid" : "b29572a6509f2945",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/b29572a6509f2945",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448691,
+        "stop" : 1603393452544,
+        "duration" : 3853
+      }
+    }, {
+      "uid" : "10225cd202d5b635",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/10225cd202d5b635",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448691,
+        "stop" : 1603393452544,
+        "duration" : 3853
+      }
+    }, {
+      "uid" : "7aa57dbb00fbfdc0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/7aa57dbb00fbfdc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393448691,
+        "stop" : 1603393452544,
+        "duration" : 3853
+      }
+    } ]
+  },
+  "e338660d162be3e9a74de40a3734fc50" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 25,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 25
+    },
+    "items" : [ {
+      "uid" : "5d41420d982680fa",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/5d41420d982680fa",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3307d26c059576d8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/3307d26c059576d8",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "71d11b5ae9445797",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/71d11b5ae9445797",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e096cf8e2bec2fb3",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/e096cf8e2bec2fb3",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1a502f7c7e911cd4",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/1a502f7c7e911cd4",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4df2a7a1d0f3d0fe",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/4df2a7a1d0f3d0fe",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b67f0d8180ef286d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/b67f0d8180ef286d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "d7a5b89297aa1961",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/d7a5b89297aa1961",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1844b85756f67995",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/1844b85756f67995",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "784f4cbb0211b6b7",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/784f4cbb0211b6b7",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "171d7fa264cd55b1",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/171d7fa264cd55b1",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "aa2a4dc0fe7a0dc7",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/aa2a4dc0fe7a0dc7",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "baa664eeb73826eb",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/baa664eeb73826eb",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351785,
+        "stop" : 1603298351786,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ef3c900675e6c0eea0a8f4e991efff4f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 8,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "69157974fa4db26d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/69157974fa4db26d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "fbbcbe6eac96930d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/fbbcbe6eac96930d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "ee82918e261976",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/ee82918e261976",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "8f05c389ea6926e5",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/8f05c389ea6926e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "e7a673538243c013",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/e7a673538243c013",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "fe7ca56c22ea270f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/fe7ca56c22ea270f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "4b05bbca121fa31",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/4b05bbca121fa31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "36f41e20b6676f84",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/36f41e20b6676f84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569573,
+        "stop" : 1603395569746,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "eff48c9352e7c3ff",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/eff48c9352e7c3ff",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505641,
+        "stop" : 1603395505642,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a31b8412cb655cfd",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/a31b8412cb655cfd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395430087,
+        "stop" : 1603395430260,
+        "duration" : 173
+      }
+    }, {
+      "uid" : "2655f9f2e006089",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/2655f9f2e006089",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603394630854,
+        "stop" : 1603394630854,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "68a9c9c603a505b8",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/68a9c9c603a505b8",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393939597,
+        "stop" : 1603393939597,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8cdcac275f76492e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/8cdcac275f76492e",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393667148,
+        "stop" : 1603393667148,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6edcc5a8d296869f40cc26235b96c3b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 25,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 25
+    },
+    "items" : [ {
+      "uid" : "ace935dbd38f80d6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/ace935dbd38f80d6",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3bbfa63bf5dc362f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/3bbfa63bf5dc362f",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a27b1d96ec441cc2",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/a27b1d96ec441cc2",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "987fb20733b47d9f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/987fb20733b47d9f",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1868784c02f6f8d6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/1868784c02f6f8d6",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "a7427cae7cdd8f3a",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/a7427cae7cdd8f3a",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "8f2a424c1d51c020",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/8f2a424c1d51c020",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1e7c7f9c8438d669",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/1e7c7f9c8438d669",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "db40c1a87afce794",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/db40c1a87afce794",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b80f1bb8fc5d09a0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/b80f1bb8fc5d09a0",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "eafef48280be5df8",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/eafef48280be5df8",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4ba660e6c75668e4",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/4ba660e6c75668e4",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "f5d75d6a12549c17",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/f5d75d6a12549c17",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603298351689,
+        "stop" : 1603298351691,
+        "duration" : 2
+      }
+    } ]
+  },
+  "6710f42ed674e74f91c406516e732cc3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 37,
+      "unknown" : 0,
+      "total" : 40
+    },
+    "items" : [ {
+      "uid" : "7ed07877ed42c2ad",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/7ed07877ed42c2ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "5310a95a7b73cac",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/5310a95a7b73cac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "277296739448fe43",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/277296739448fe43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "5fee951db3c97add",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/5fee951db3c97add",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "613819012603671d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/613819012603671d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "26719c658460a4c2",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/26719c658460a4c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "c9b018850db2b16b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/c9b018850db2b16b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "ca36d645045acc6f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/ca36d645045acc6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603710112891,
+        "stop" : 1603710113262,
+        "duration" : 371
+      }
+    }, {
+      "uid" : "413cfc42cfb2afc2",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/413cfc42cfb2afc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393300604,
+        "stop" : 1603393300854,
+        "duration" : 250
+      }
+    }, {
+      "uid" : "16ac599cbd2e1d9a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/16ac599cbd2e1d9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393300604,
+        "stop" : 1603393300854,
+        "duration" : 250
+      }
+    }, {
+      "uid" : "62ce5922e62c5622",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/62ce5922e62c5622",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393300604,
+        "stop" : 1603393300854,
+        "duration" : 250
+      }
+    }, {
+      "uid" : "b0df33ef1b7ba9af",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/b0df33ef1b7ba9af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393300604,
+        "stop" : 1603393300854,
+        "duration" : 250
+      }
+    }, {
+      "uid" : "ad2b8c5d5326122e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/ad2b8c5d5326122e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393300604,
+        "stop" : 1603393300854,
+        "duration" : 250
+      }
+    } ]
+  },
+  "82fe17768bc4312ca634bb9ca891232" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 36,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 54
+    },
+    "items" : [ {
+      "uid" : "a027bf64b9af249f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/a027bf64b9af249f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f1d4ea5c622654b6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/f1d4ea5c622654b6",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6fa45bb77d46b7a0",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/6fa45bb77d46b7a0",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e59a7740cca3bbc8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/e59a7740cca3bbc8",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "25b09cf1e4ca123d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/25b09cf1e4ca123d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ec59e0fceb6f2909",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/ec59e0fceb6f2909",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "11bc7878e9313097",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/11bc7878e9313097",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "dd04076d488664d0",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/dd04076d488664d0",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "98e7cc1a298e8abf",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/98e7cc1a298e8abf",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a8d2186e862a56fc",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/a8d2186e862a56fc",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "47c0beb294415641",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/47c0beb294415641",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4204a726ca641c99",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/4204a726ca641c99",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "117e70fad984a995",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/117e70fad984a995",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221527,
+        "stop" : 1603393221527,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ac8007db8309c989978ed42e47d7443b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 8,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 8
+    },
+    "items" : [ {
+      "uid" : "4879eccc8dd415b4",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/4879eccc8dd415b4",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "84b64797119948f5",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/84b64797119948f5",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "346163e26bd32c35",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/346163e26bd32c35",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "32f1e3535253a5be",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/32f1e3535253a5be",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "931393127a3a90de",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/931393127a3a90de",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "871c447e25abb0fd",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/871c447e25abb0fd",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "c072b88c3b63cf3c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/c072b88c3b63cf3c",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "738b97d8b0448bc0",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/738b97d8b0448bc0",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603803065373,
+        "stop" : 1603803065376,
+        "duration" : 3
+      }
+    } ]
+  },
+  "56b6350287a5e194bfef9e60ba6da63b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 36,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "da93dd9ca95141f6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/da93dd9ca95141f6",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "393d556e838677a6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/393d556e838677a6",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b0f4b304dca68c98",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/b0f4b304dca68c98",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "13f33a55e31c8f8f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/13f33a55e31c8f8f",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bfc7c327f36053b5",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/bfc7c327f36053b5",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "939a5c532c9fe523",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/939a5c532c9fe523",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "19cfea2b0713e629",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/19cfea2b0713e629",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5331fbf94b8ca9ed",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/5331fbf94b8ca9ed",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8c17d760eb952a84",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/8c17d760eb952a84",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505495,
+        "stop" : 1603395505495,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fd79043691505948",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/fd79043691505948",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603394630721,
+        "stop" : 1603394630722,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b60314c99c50a15b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/b60314c99c50a15b",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603394630721,
+        "stop" : 1603394630722,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "dacaf447543b9792",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/dacaf447543b9792",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393939454,
+        "stop" : 1603393939455,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "7baa6ddd7443a7e8",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/7baa6ddd7443a7e8",
+      "status" : "broken",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393667019,
+        "stop" : 1603393667020,
+        "duration" : 1
+      }
+    } ]
+  },
+  "87b0c8982cf69ef8ed4ba6614ce42dd6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "3e4da3fa711a22b4",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/3e4da3fa711a22b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604600003870,
+        "stop" : 1604600004289,
+        "duration" : 419
+      }
+    }, {
+      "uid" : "f98dc803c23a89bc",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/f98dc803c23a89bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604599814871,
+        "stop" : 1604599815141,
+        "duration" : 270
+      }
+    }, {
+      "uid" : "3e979b64cd680244",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/3e979b64cd680244",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598794141,
+        "stop" : 1604598794390,
+        "duration" : 249
+      }
+    }, {
+      "uid" : "bd74be51170fbfb9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/bd74be51170fbfb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598794141,
+        "stop" : 1604598794390,
+        "duration" : 249
+      }
+    }, {
+      "uid" : "774f6da0b68fb7df",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/774f6da0b68fb7df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598794141,
+        "stop" : 1604598794390,
+        "duration" : 249
+      }
+    }, {
+      "uid" : "519568b793a057af",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/519568b793a057af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598551736,
+        "stop" : 1604598551990,
+        "duration" : 254
+      }
+    }, {
+      "uid" : "49ebcc561ca21151",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/49ebcc561ca21151",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604596900785,
+        "stop" : 1604596901043,
+        "duration" : 258
+      }
+    }, {
+      "uid" : "dd8eccbcfd78f2ec",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/dd8eccbcfd78f2ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803193157,
+        "stop" : 1603803193791,
+        "duration" : 634
+      }
+    }, {
+      "uid" : "1d2316f3bc7d2189",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/1d2316f3bc7d2189",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446244,
+        "stop" : 1603393446537,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "f9f2aa9c26a40748",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/f9f2aa9c26a40748",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446244,
+        "stop" : 1603393446537,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "7b83265392518ffc",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/7b83265392518ffc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446244,
+        "stop" : 1603393446537,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "d618f1cefe13a72a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/d618f1cefe13a72a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446244,
+        "stop" : 1603393446537,
+        "duration" : 293
+      }
+    }, {
+      "uid" : "d8aa07a8770e2a86",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/d8aa07a8770e2a86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446244,
+        "stop" : 1603393446537,
+        "duration" : 293
+      }
+    } ]
+  },
+  "50bdd57c50d7248396da37451411d2f7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 32,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 52
+    },
+    "items" : [ {
+      "uid" : "1dc5ed394f94c639",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/1dc5ed394f94c639",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d26da83f6bc05dc5",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/d26da83f6bc05dc5",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "feb8eb7399311c0b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/feb8eb7399311c0b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c80e2ae27511d226",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/c80e2ae27511d226",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ca63615d0340873f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/ca63615d0340873f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6ce23a4beba4adca",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/6ce23a4beba4adca",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e831254bc331b2d2",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/e831254bc331b2d2",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "967bdd57bd14f518",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/967bdd57bd14f518",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "429d3da8f4978c5b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/429d3da8f4978c5b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f6c7e7f5afd1481e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/f6c7e7f5afd1481e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "24408e61c6d35479",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/24408e61c6d35479",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8a6cb7c6a785573b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/8a6cb7c6a785573b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "eb032c17063ba1bf",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/eb032c17063ba1bf",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603059,
+        "stop" : 1603393603059,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b141800e8f5ee2a9b66be04141022f6a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 17
+    },
+    "items" : [ {
+      "uid" : "6088c6890640f978",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/6088c6890640f978",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "2a5214c6d771df4b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/2a5214c6d771df4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "e429772200f8130b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/e429772200f8130b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "3907ffae5972753d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/3907ffae5972753d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "5d4e567b04a48e64",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/5d4e567b04a48e64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "8830777f84ee1435",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/8830777f84ee1435",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "2c041f5d1ad48333",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/2c041f5d1ad48333",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "64f7d99d22f90f26",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/64f7d99d22f90f26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "9605a346714c2a24",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/9605a346714c2a24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "bb30807964c27508",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/bb30807964c27508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "856e510ccf3d76cc",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/856e510ccf3d76cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "6d18eae3a02db20f",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/6d18eae3a02db20f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    }, {
+      "uid" : "ea8e1213175a1c07",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/ea8e1213175a1c07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603392627641,
+        "stop" : 1603392630143,
+        "duration" : 2502
+      }
+    } ]
+  },
+  "aabc0197e29ec020293b6e2e84bdf4a1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 36,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 54
+    },
+    "items" : [ {
+      "uid" : "77a1de82ac9a4612",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/77a1de82ac9a4612",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "798df4f9f8fddd3c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/798df4f9f8fddd3c",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "85931e562e2ca035",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/85931e562e2ca035",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c585ab8fce4fe2a7",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/c585ab8fce4fe2a7",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8c2834ff5691a5be",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/8c2834ff5691a5be",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "deae36ecfe827b15",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/deae36ecfe827b15",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "828fbf5f4cbed47c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/828fbf5f4cbed47c",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "fd13c34c90b5632e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/fd13c34c90b5632e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c745540f84f5bab6",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/c745540f84f5bab6",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d055cea8f41fe214",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/d055cea8f41fe214",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d716026eb844b975",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/d716026eb844b975",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8160cbb2c83adc3d",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/8160cbb2c83adc3d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c5429267c4ef8afa",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/c5429267c4ef8afa",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221543,
+        "stop" : 1603393221543,
+        "duration" : 0
+      }
+    } ]
+  },
+  "61882a65d8a6c52cb437e2df97444358" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 10,
+      "skipped" : 8,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "7d9ee54cd4e9be2e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/7d9ee54cd4e9be2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "3bfd9d89d39dc954",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/3bfd9d89d39dc954",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "1591f5cce1549cd8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/1591f5cce1549cd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "80ed62effd1937e3",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/80ed62effd1937e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "4022ce9b299957b7",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/4022ce9b299957b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "5a4e26c4b9c9f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/5a4e26c4b9c9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "8768e01a9c3f3850",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/8768e01a9c3f3850",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "9106d0db6859768c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/9106d0db6859768c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395569103,
+        "stop" : 1603395569279,
+        "duration" : 176
+      }
+    }, {
+      "uid" : "e2f0905b70b7c1bb",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/e2f0905b70b7c1bb",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603395505634,
+        "stop" : 1603395505634,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5a3efb8ed212bda3",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/5a3efb8ed212bda3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603395429611,
+        "stop" : 1603395429774,
+        "duration" : 163
+      }
+    }, {
+      "uid" : "7ad2038d6e116c43",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/7ad2038d6e116c43",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603394630848,
+        "stop" : 1603394630848,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9323b37d1791329d",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/9323b37d1791329d",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393939590,
+        "stop" : 1603393939590,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c29938230c339e7",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/c29938230c339e7",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603393667142,
+        "stop" : 1603393667142,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e160e61b5a26f0032089f415ddd02873" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 42,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 42
+    },
+    "items" : [ {
+      "uid" : "32c87cab138e23c7",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/32c87cab138e23c7",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "90be1eb7583f5227",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/90be1eb7583f5227",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1be66c34927a619",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/1be66c34927a619",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1e86601db75d899",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/1e86601db75d899",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "2ee6c7c534024505",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/2ee6c7c534024505",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c2c1b05578347a3d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/c2c1b05578347a3d",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "1456ae44e0bed6f9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/1456ae44e0bed6f9",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3f93ba6ada01cb2d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/3f93ba6ada01cb2d",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "829b78e1abf5dc7f",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/829b78e1abf5dc7f",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "42d4ae1a5be427a9",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/42d4ae1a5be427a9",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5c1b907df0efcfbf",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/5c1b907df0efcfbf",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "47e2fabd007a11e8",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/47e2fabd007a11e8",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "cf9d3f568f9595c7",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/cf9d3f568f9595c7",
+      "status" : "broken",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062045,
+        "stop" : 1603286062047,
+        "duration" : 2
+      }
+    } ]
+  },
+  "5b06483ef9014e6f5a87079eb6381c25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "944c4cd8d52cd098",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/944c4cd8d52cd098",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604600004322,
+        "stop" : 1604600005859,
+        "duration" : 1537
+      }
+    }, {
+      "uid" : "edf2c76dc5e3bb68",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/edf2c76dc5e3bb68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604599815172,
+        "stop" : 1604599817281,
+        "duration" : 2109
+      }
+    }, {
+      "uid" : "d09cac88a0e165f8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/d09cac88a0e165f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598794407,
+        "stop" : 1604598795929,
+        "duration" : 1522
+      }
+    }, {
+      "uid" : "8884cf2af0b46afd",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/8884cf2af0b46afd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598794407,
+        "stop" : 1604598795929,
+        "duration" : 1522
+      }
+    }, {
+      "uid" : "b19f93cb6dfd8587",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/b19f93cb6dfd8587",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598794407,
+        "stop" : 1604598795929,
+        "duration" : 1522
+      }
+    }, {
+      "uid" : "b5772a8349197b4d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/b5772a8349197b4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598552011,
+        "stop" : 1604598553367,
+        "duration" : 1356
+      }
+    }, {
+      "uid" : "59c67fd381339fd",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/59c67fd381339fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604596901063,
+        "stop" : 1604596902456,
+        "duration" : 1393
+      }
+    }, {
+      "uid" : "a008a8e7c1940205",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/a008a8e7c1940205",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803193801,
+        "stop" : 1603803196212,
+        "duration" : 2411
+      }
+    }, {
+      "uid" : "acc96dc08787609b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/acc96dc08787609b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446540,
+        "stop" : 1603393448096,
+        "duration" : 1556
+      }
+    }, {
+      "uid" : "c5ebb47331cbb6e7",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/c5ebb47331cbb6e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446540,
+        "stop" : 1603393448096,
+        "duration" : 1556
+      }
+    }, {
+      "uid" : "568446293b8d3cbd",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/568446293b8d3cbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446540,
+        "stop" : 1603393448096,
+        "duration" : 1556
+      }
+    }, {
+      "uid" : "4970bf8fa5f32b95",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/4970bf8fa5f32b95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446540,
+        "stop" : 1603393448096,
+        "duration" : 1556
+      }
+    }, {
+      "uid" : "c7ca918e245ef615",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/c7ca918e245ef615",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393446540,
+        "stop" : 1603393448096,
+        "duration" : 1556
+      }
+    } ]
+  },
+  "20aa27abc3ed01ddfb47687bf1ef0bdd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "630196c61498034b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/630196c61498034b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604600002128,
+        "stop" : 1604600003635,
+        "duration" : 1507
+      }
+    }, {
+      "uid" : "cbce421f1212f3a3",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/cbce421f1212f3a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604599813533,
+        "stop" : 1604599814760,
+        "duration" : 1227
+      }
+    }, {
+      "uid" : "5cf80b4ddae0a32e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/5cf80b4ddae0a32e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598792998,
+        "stop" : 1604598794040,
+        "duration" : 1042
+      }
+    }, {
+      "uid" : "2d08cb36033d66df",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/2d08cb36033d66df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598792998,
+        "stop" : 1604598794040,
+        "duration" : 1042
+      }
+    }, {
+      "uid" : "6055cc0f7be7b0cc",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/6055cc0f7be7b0cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598792998,
+        "stop" : 1604598794040,
+        "duration" : 1042
+      }
+    }, {
+      "uid" : "41ba1a2f12f69b10",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/41ba1a2f12f69b10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604598550661,
+        "stop" : 1604598551644,
+        "duration" : 983
+      }
+    }, {
+      "uid" : "b03fa598cdfeb5b8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/b03fa598cdfeb5b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604596899546,
+        "stop" : 1604596900696,
+        "duration" : 1150
+      }
+    }, {
+      "uid" : "ffe4305b8119ca4f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/ffe4305b8119ca4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603803191534,
+        "stop" : 1603803192996,
+        "duration" : 1462
+      }
+    }, {
+      "uid" : "1b299a78c282ef",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/1b299a78c282ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393444721,
+        "stop" : 1603393446192,
+        "duration" : 1471
+      }
+    }, {
+      "uid" : "ad289fccb9d9d001",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/ad289fccb9d9d001",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393444721,
+        "stop" : 1603393446192,
+        "duration" : 1471
+      }
+    }, {
+      "uid" : "2014982bd33e7e35",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/2014982bd33e7e35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393444721,
+        "stop" : 1603393446192,
+        "duration" : 1471
+      }
+    }, {
+      "uid" : "3ba9fcbd6bf35e49",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/3ba9fcbd6bf35e49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393444721,
+        "stop" : 1603393446192,
+        "duration" : 1471
+      }
+    }, {
+      "uid" : "258794aaa05d33ae",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/258794aaa05d33ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603393444721,
+        "stop" : 1603393446192,
+        "duration" : 1471
+      }
+    } ]
+  },
+  "b3b046b7b41504e13f48b8200d288f65" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 36,
+      "passed" : 17,
+      "unknown" : 0,
+      "total" : 54
+    },
+    "items" : [ {
+      "uid" : "1989541705fcaefb",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/1989541705fcaefb",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "432f735aa36ecb2d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/432f735aa36ecb2d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e62e8be8897595a0",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/e62e8be8897595a0",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8372d3d64c6ac7a6",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/8372d3d64c6ac7a6",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b1cb09cbb8439f6e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/b1cb09cbb8439f6e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3d1a1c383f26bfd8",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/3d1a1c383f26bfd8",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "739ca26abe813191",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/739ca26abe813191",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9987424cf8bb6eee",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/9987424cf8bb6eee",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f4e97ba150eb2088",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/f4e97ba150eb2088",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "118c5b9c25920489",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/118c5b9c25920489",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fe42ce021f94a521",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/fe42ce021f94a521",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a7119e20d9bfb9de",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/a7119e20d9bfb9de",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "702af2d38dfc1a39",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/702af2d38dfc1a39",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221531,
+        "stop" : 1603393221532,
+        "duration" : 1
+      }
+    } ]
+  },
+  "79a5d6b14bf1d3d5c64eb55e69caf6da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 34,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 54
+    },
+    "items" : [ {
+      "uid" : "f78f288976215aca",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/f78f288976215aca",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "3732c34b9c3307b9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/3732c34b9c3307b9",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fd0779dd236ac9a4",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/fd0779dd236ac9a4",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "df5742f2529416c9",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/df5742f2529416c9",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "60124343ad1f7f47",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/60124343ad1f7f47",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b447812135f99b0b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/b447812135f99b0b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2009d7137cd65517",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/2009d7137cd65517",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "63d14701895d7cda",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/63d14701895d7cda",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "32047eb3a40a43ef",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/32047eb3a40a43ef",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6b9df0d318180112",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/6b9df0d318180112",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a8da3c8ebf4b6646",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/a8da3c8ebf4b6646",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e912acba771bb040",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/e912acba771bb040",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "137cc08d85653e8e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/137cc08d85653e8e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221515,
+        "stop" : 1603393221516,
+        "duration" : 1
+      }
+    } ]
+  },
+  "6f85ff15f2324cde10ec87a2d269087e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 13,
+      "skipped" : 32,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 52
+    },
+    "items" : [ {
+      "uid" : "be04107ac42ccb4f",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/be04107ac42ccb4f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "30347e211d4a114a",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/30347e211d4a114a",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bb3b1fb880e1001b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/bb3b1fb880e1001b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "761bd7c81185527d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/761bd7c81185527d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "aeff193281a5f2ed",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/aeff193281a5f2ed",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "166ec4d9487d4159",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/166ec4d9487d4159",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ec5131cab1dfebf4",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/ec5131cab1dfebf4",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a886ebfd183f555b",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/a886ebfd183f555b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "fc416dfbda000852",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/fc416dfbda000852",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ac95e137c98186c6",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/ac95e137c98186c6",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4abc5d01dfe4802e",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/4abc5d01dfe4802e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "37aaca76a6186be0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/37aaca76a6186be0",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "19a3a12e617b4cbc",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/19a3a12e617b4cbc",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603393603062,
+        "stop" : 1603393603063,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1ff2898eb50f07edc8d597fba006ce6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 34,
+      "passed" : 18,
+      "unknown" : 0,
+      "total" : 54
+    },
+    "items" : [ {
+      "uid" : "62b772cdf629aa3e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/62b772cdf629aa3e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "436aaadfd69df212",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/436aaadfd69df212",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "75781b1094beb794",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/75781b1094beb794",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cdaf5f1d4ac23b26",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/cdaf5f1d4ac23b26",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7bb5baa1932d267e",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/7bb5baa1932d267e",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7aacea986bb78fb4",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/7aacea986bb78fb4",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "33096c6c524bc3ae",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/33096c6c524bc3ae",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c4c815547c65397c",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/c4c815547c65397c",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "34e4c98ef6f113",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/34e4c98ef6f113",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1c254c3b204b93f0",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/1c254c3b204b93f0",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "94613b2bcdf466ef",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/94613b2bcdf466ef",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c3ab1f836456e91f",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/c3ab1f836456e91f",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7b70758427b0111",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/7b70758427b0111",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Automation\\AutomationProject\\executeWebDB.xml",
+      "time" : {
+        "start" : 1603393221523,
+        "stop" : 1603393221523,
+        "duration" : 0
+      }
+    } ]
+  },
+  "30ae37c2176ddb93ac748143c2a88737" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 33,
+      "passed" : 24,
+      "unknown" : 0,
+      "total" : 58
+    },
+    "items" : [ {
+      "uid" : "fc6a9037c8988da4",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure/#testresult/fc6a9037c8988da4",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "490b75935f896384",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/490b75935f896384",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cf0699b6a32d5fd",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/cf0699b6a32d5fd",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c33f26655eda62ad",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/c33f26655eda62ad",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b92ea9a1fd717924",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/b92ea9a1fd717924",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eb62f0622eb5655d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/eb62f0622eb5655d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8c31d0ab77e49215",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/8c31d0ab77e49215",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1c091d615d89e71d",
+      "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/1c091d615d89e71d",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "eb9b4a872dbdbd5a",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/eb9b4a872dbdbd5a",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2a46cdc58791ed5b",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/2a46cdc58791ed5b",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b8d51f296b826aa1",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/b8d51f296b826aa1",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1a120dc342966c39",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/1a120dc342966c39",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "48fac54fcd56c696",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/48fac54fcd56c696",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603286062138,
+        "stop" : 1603286062139,
+        "duration" : 1
+      }
+    } ]
+  }
+}

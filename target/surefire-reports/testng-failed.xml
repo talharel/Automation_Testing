@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Api Tests(failed)" verbose="0">
+    <parameter name="PlatformName" value="api"/>
+    <classes>
+      <class name="SanityTests.grafanaApi">
+        <methods>
+          <include name="test02_addTeamAndVerify"/>
+          <include name="test03_update"/>
+          <include name="startSession"/>
+          <include name="test04_update"/>
+          <include name="closeSession"/>
+          <include name="test01_getTeam"/>
+        </methods>
+      </class> <!-- SanityTests.grafanaApi -->
+    </classes>
+  </test> <!-- Api Tests(failed) -->
+</suite> <!-- Failed suite [Suite] -->

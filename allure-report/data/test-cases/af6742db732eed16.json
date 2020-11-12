@@ -1,0 +1,94 @@
+{
+  "uid" : "af6742db732eed16",
+  "name" : "Test 02: Add team and verify",
+  "fullName" : "SanityTests.grafanaApi.test02_addTeamAndVerify",
+  "historyId" : "67b8b1f7b85bbd04e6ea3fd775a95187",
+  "time" : {
+    "start" : 1603284052249,
+    "stop" : 1603284052332,
+    "duration" : 83
+  },
+  "description" : "Add team to Grafana and verify it",
+  "descriptionHtml" : "<p>Add team to Grafana and verify it</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1603284047655,
+      "stop" : 1603284050940,
+      "duration" : 3285
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1603284052514,
+      "stop" : 1603284052521,
+      "duration" : 7
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.grafanaApi"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.grafanaApi"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02_addTeamAndVerify"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.grafanaApi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "22400@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af6742db732eed16.json",
+  "parameterValues" : [ ]
+}

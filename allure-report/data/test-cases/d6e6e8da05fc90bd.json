@@ -1,0 +1,202 @@
+{
+  "uid" : "d6e6e8da05fc90bd",
+  "name" : "startSession",
+  "fullName" : "Utilities.commonOps.startSession",
+  "historyId" : "26f0d53a9246a609a9841b376dd9fe1c",
+  "time" : {
+    "start" : 1603392010736,
+    "stop" : 1603392010737,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "statusMessage" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+  "statusTrace" : "org.openqa.selenium.WebDriverException: Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.lambda$5(AppiumCommandExecutor.java:251)\r\n\tat java.util.Optional.orElseGet(Optional.java:267)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat io.appium.java_client.windows.WindowsDriver.execute(WindowsDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:38)\r\n\tat io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:84)\r\n\tat io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:94)\r\n\tat io.appium.java_client.windows.WindowsDriver.<init>(WindowsDriver.java:42)\r\n\tat Utilities.commonOps.initDesktop(commonOps.java:166)\r\n\tat Utilities.commonOps.startSession(commonOps.java:52)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)\r\n\tat org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)\r\n\tat org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)\r\n\tat org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)\r\n\tat org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\r\n\tat org.testng.TestRunner.run(TestRunner.java:505)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\r\n\tat org.testng.TestNG.run(TestNG.java:1017)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)\r\nCaused by: java.net.ConnectException: Connection refused: connect\r\n\tat java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)\r\n\tat java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)\r\n\tat java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)\r\n\tat java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)\r\n\tat java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)\r\n\tat java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)\r\n\tat java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)\r\n\tat java.net.Socket.connect(Socket.java:589)\r\n\tat okhttp3.internal.platform.Platform.connectSocket(Platform.java:129)\r\n\tat okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.java:245)\r\n\tat okhttp3.internal.connection.RealConnection.connect(RealConnection.java:165)\r\n\tat okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:257)\r\n\tat okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:135)\r\n\tat okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:114)\r\n\tat okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)\r\n\tat okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)\r\n\tat okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)\r\n\tat okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)\r\n\tat okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)\r\n\tat okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)\r\n\tat okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)\r\n\tat okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)\r\n\tat okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:126)\r\n\tat okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)\r\n\tat okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)\r\n\tat okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)\r\n\tat okhttp3.RealCall.execute(RealCall.java:77)\r\n\tat org.openqa.selenium.remote.internal.OkHttpClient.execute(OkHttpClient.java:103)\r\n\tat org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:105)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:186)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:217)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)\r\n\t... 37 more\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.calculatorDeskTop"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.calculatorDeskTop"
+  }, {
+    "name" : "testMethod",
+    "value" : "startSession"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Electron Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.calculatorDeskTop"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "24872@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "desktop"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 17,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 17
+      },
+      "items" : [ {
+        "uid" : "1a4ec651b978f29c",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/1a4ec651b978f29c",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "77be747768fd714b",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/77be747768fd714b",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ac52e983967249ae",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/ac52e983967249ae",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "4d2899613be68b8d",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/4d2899613be68b8d",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "c5448f19cf8b015f",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/c5448f19cf8b015f",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "3b0e0b077c6364ab",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/3b0e0b077c6364ab",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "95c589bcc64fb38d",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/95c589bcc64fb38d",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "18ba196bc0d81618",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/18ba196bc0d81618",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "390ccf0846b5ca2e",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/390ccf0846b5ca2e",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "7af8eee860b9e64f",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/7af8eee860b9e64f",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "dd511272ae3b270c",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/dd511272ae3b270c",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "79832517c19fe8f3",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/79832517c19fe8f3",
+        "status" : "broken",
+        "statusDetails" : "Connection refused: connect\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'DESKTOP-SS4RDQI', ip: '192.168.68.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: WindowsDriver",
+        "time" : {
+          "start" : 1603392010736,
+          "stop" : 1603392010737,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d6e6e8da05fc90bd.json",
+  "parameterValues" : [ "desktop" ]
+}

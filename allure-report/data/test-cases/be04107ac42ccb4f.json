@@ -1,0 +1,240 @@
+{
+  "uid" : "be04107ac42ccb4f",
+  "name" : "Test 04: Delete Team and verify",
+  "fullName" : "SanityTests.grafanaApi.test04_update",
+  "historyId" : "6f85ff15f2324cde10ec87a2d269087e",
+  "time" : {
+    "start" : 1603393603062,
+    "stop" : 1603393603063,
+    "duration" : 1
+  },
+  "description" : "Delete team from Grafana and verify it",
+  "descriptionHtml" : "<p>Delete team from Grafana and verify it</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+  "statusTrace" : "org.testng.TestNGException: \nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml\r\n\tat org.testng.internal.Parameters.createParams(Parameters.java:290)\r\n\tat org.testng.internal.Parameters.createParametersForMethod(Parameters.java:359)\r\n\tat org.testng.internal.Parameters.createParameters(Parameters.java:620)\r\n\tat org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:190)\r\n\tat org.testng.internal.Invoker.invokeConfigurations(Invoker.java:209)\r\n\tat org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)\r\n\tat org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:168)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:105)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:648)\r\n\tat org.testng.TestRunner.run(TestRunner.java:505)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:455)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:364)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1137)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1049)\r\n\tat org.testng.TestNG.run(TestNG.java:1017)\r\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\r\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)\r\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.grafanaApi"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.grafanaApi"
+  }, {
+    "name" : "testMethod",
+    "value" : "test04_update"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "AutomationProject"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.grafanaApi"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "2956@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f870f6453f576466",
+      "status" : "skipped",
+      "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+      "time" : {
+        "start" : 1603386742444,
+        "stop" : 1603386742444,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9c1e557133859898",
+      "status" : "broken",
+      "statusDetails" : "Connection refused: connect",
+      "time" : {
+        "start" : 1603284877102,
+        "stop" : 1603284881184,
+        "duration" : 4082
+      }
+    }, {
+      "uid" : "4eebd0d32bcfe7db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603284847669,
+        "stop" : 1603284847752,
+        "duration" : 83
+      }
+    }, {
+      "uid" : "44cb0e47a30603c5",
+      "status" : "skipped",
+      "statusDetails" : "javax/xml/bind/JAXBException",
+      "time" : {
+        "start" : 1603284825782,
+        "stop" : 1603284825782,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "abc4fb5ccd5316f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603284052432,
+        "stop" : 1603284052511,
+        "duration" : 79
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 13,
+        "skipped" : 32,
+        "passed" : 7,
+        "unknown" : 0,
+        "total" : 52
+      },
+      "items" : [ {
+        "uid" : "30347e211d4a114a",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure/#testresult/30347e211d4a114a",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "bb3b1fb880e1001b",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure/#testresult/bb3b1fb880e1001b",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "761bd7c81185527d",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure/#testresult/761bd7c81185527d",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "aeff193281a5f2ed",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure/#testresult/aeff193281a5f2ed",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "166ec4d9487d4159",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure/#testresult/166ec4d9487d4159",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ec5131cab1dfebf4",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure/#testresult/ec5131cab1dfebf4",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "a886ebfd183f555b",
+        "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure/#testresult/a886ebfd183f555b",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "fc416dfbda000852",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure/#testresult/fc416dfbda000852",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ac95e137c98186c6",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure/#testresult/ac95e137c98186c6",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "4abc5d01dfe4802e",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/4abc5d01dfe4802e",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "37aaca76a6186be0",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/37aaca76a6186be0",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "19a3a12e617b4cbc",
+        "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/19a3a12e617b4cbc",
+        "status" : "skipped",
+        "statusDetails" : "\nParameter 'PlatformName' is required by BeforeClass on method startSession but has not been marked @Optional or defined\nin C:\\Users\\talha\\AppData\\Local\\JetBrains\\IdeaIC2020.1\\temp-testng-customsuite.xml",
+        "time" : {
+          "start" : 1603393603062,
+          "stop" : 1603393603063,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "be04107ac42ccb4f.json",
+  "parameterValues" : [ ]
+}

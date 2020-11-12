@@ -1,0 +1,97 @@
+{
+  "uid" : "db1f701b03a59de6",
+  "name" : "Test04: Verify Url",
+  "fullName" : "SanityTests.sauceDemoWeb.test06",
+  "historyId" : "f110fc6d6c6f77d5ae179a972d1130d1",
+  "time" : {
+    "start" : 1603286707970,
+    "stop" : 1603286707976,
+    "duration" : 6
+  },
+  "description" : "Test Description: Verify Url",
+  "descriptionHtml" : "<p>Test Description: Verify Url</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1603286688616,
+      "stop" : 1603286700254,
+      "duration" : 11638
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1603286707979,
+      "stop" : 1603286708657,
+      "duration" : 678
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test06"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "11960@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db1f701b03a59de6.json",
+  "parameterValues" : [ "web" ]
+}

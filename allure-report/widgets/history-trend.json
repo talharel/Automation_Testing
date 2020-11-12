@@ -1,0 +1,241 @@
+[ {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:9090/job/Project%20Web/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 12,
+    "passed" : 14,
+    "unknown" : 0,
+    "total" : 33
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 16,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 12,
+    "passed" : 13,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 16,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 16,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 16,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 16,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 31
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Desktop/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 12,
+    "passed" : 12,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Desktop/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 12,
+    "passed" : 12,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Desktop/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 12,
+    "passed" : 12,
+    "unknown" : 0,
+    "total" : 30
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Desktop/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 5,
+    "skipped" : 12,
+    "passed" : 11,
+    "unknown" : 0,
+    "total" : 28
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 5,
+    "skipped" : 12,
+    "passed" : 11,
+    "unknown" : 0,
+    "total" : 28
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20Electron/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 5,
+    "skipped" : 12,
+    "passed" : 11,
+    "unknown" : 0,
+    "total" : 28
+  }
+} ]

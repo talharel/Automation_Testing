@@ -1,0 +1,159 @@
+{
+  "uid" : "d915978f5c7b3c9a",
+  "name" : "Test04: Navigate to LabsPage",
+  "fullName" : "SanityTests.sauceDemoWeb.test05",
+  "historyId" : "573c1f37e5b6918c657e12d686b0cb6c",
+  "time" : {
+    "start" : 1603387509974,
+    "stop" : 1603387514055,
+    "duration" : 4081
+  },
+  "description" : "Test Description: Navigate to LabsPage",
+  "descriptionHtml" : "<p>Test Description: Navigate to LabsPage</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "startSession",
+    "time" : {
+      "start" : 1603387491805,
+      "stop" : 1603387504233,
+      "duration" : 12428
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Test Description: Navigate to LabsPage",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Navigate to LabsPage",
+      "time" : {
+        "start" : 1603387509974,
+        "stop" : 1603387514055,
+        "duration" : 4081
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Click on element",
+        "time" : {
+          "start" : 1603387510001,
+          "stop" : 1603387510093,
+          "duration" : 92
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "element",
+          "value" : "[[ChromeDriver: chrome on WINDOWS (6befb51a492acf34c97f52f31404ad1f)] -> xpath: //*[@id='menu_button_container']/div/div[3]/div/button]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      }, {
+        "name" : "Click on element",
+        "time" : {
+          "start" : 1603387510108,
+          "stop" : 1603387514055,
+          "duration" : 3947
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ {
+          "name" : "element",
+          "value" : "[[ChromeDriver: chrome on WINDOWS (6befb51a492acf34c97f52f31404ad1f)] -> id: about_sidebar_link]"
+        } ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 2,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1603387514069,
+      "stop" : 1603387514795,
+      "duration" : 726
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "testMethod",
+    "value" : "test05"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Web Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.sauceDemoWeb"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-SS4RDQI"
+  }, {
+    "name" : "thread",
+    "value" : "24344@DESKTOP-SS4RDQI.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "web"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d915978f5c7b3c9a.json",
+  "parameterValues" : [ "web" ]
+}
